@@ -97,19 +97,11 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2258" y="832" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2868" y="832" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-14">
           <mxGeometry relative="1" as="geometry">
