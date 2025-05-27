@@ -16,7 +16,7 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="620" width="2156" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="375" width="2091" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-5" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
