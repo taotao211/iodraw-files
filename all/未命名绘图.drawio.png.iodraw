@@ -26,7 +26,7 @@
           <mxGeometry x="2135" y="113" width="221" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-7" value="移动端友好UI (通过浏览器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2406" y="113" width="251" height="52" as="geometry" />
+          <mxGeometry x="2470" y="113" width="251" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-8" value="API网关 (Nginx/Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2188" y="375" width="216" height="70" as="geometry" />
