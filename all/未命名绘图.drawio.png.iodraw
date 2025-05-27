@@ -46,8 +46,8 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-13" value="异常智能处理服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2550" y="645" width="292" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-14" value="通知服务 (邮件/短信/系统消息)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2803" y="772" width="216" height="70" as="geometry" />
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-14" value="通知服务 (邮件/短信/系统消息)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2514" y="751" width="366" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-15" value="报表与分析服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3069" y="780" width="172" height="52" as="geometry" />
