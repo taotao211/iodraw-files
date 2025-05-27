@@ -16,6 +16,9 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;fontStyle=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="620" width="2156" height="247" as="geometry" />
         </mxCell>
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-4" target="Txe6CZd5IbQ0K2SI36va-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;fontSize=30;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="375" width="2091" height="120" as="geometry" />
         </mxCell>
@@ -86,7 +89,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2309" y="712" />
-              <mxPoint x="2050" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -410,6 +412,9 @@
               <mxPoint x="1500" y="1178" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-68" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;fontSize=30;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="175" width="2091" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
