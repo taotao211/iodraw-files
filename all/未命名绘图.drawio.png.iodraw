@@ -56,7 +56,7 @@
           <mxGeometry x="2029" y="760" width="311" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-17" value="Llama3.3 70B接口服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1045" y="1383" width="217" height="52" as="geometry" />
+          <mxGeometry x="1010" y="1383" width="285" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-18" value="提示词工程模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="915" y="1553" width="172" height="52" as="geometry" />
