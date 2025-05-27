@@ -61,13 +61,13 @@
           <mxGeometry x="1130" y="465" width="2091" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-5" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1970" y="220" width="592" height="102" as="geometry" />
+          <mxGeometry x="2100" y="88" width="592" height="102" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-6" value="Web应用 (浏览器访问)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2005" y="245" width="221" height="52" as="geometry" />
+          <mxGeometry x="2135" y="113" width="221" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-7" value="移动端友好UI (通过浏览器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2276" y="245" width="251" height="52" as="geometry" />
+          <mxGeometry x="2406" y="113" width="251" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-8" value="API网关 (Nginx/Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2188" y="490" width="216" height="70" as="geometry" />
