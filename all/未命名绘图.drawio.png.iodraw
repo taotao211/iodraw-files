@@ -8,7 +8,7 @@
           <mxGeometry x="890" y="1754" width="670" height="306" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-1" value="应用服务器区 (内网)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1081" y="1016" width="321" height="426" as="geometry" />
+          <mxGeometry x="1080" y="980" width="321" height="426" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-2" value="DMZ区 / 安全接入区" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="620" width="318" height="324" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="1105" y="849" width="248" height="70" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-8" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1175" y="1041" width="108" height="52" as="geometry" />
+          <mxGeometry x="1174" y="1005" width="108" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-9" value="应用服务负载均衡器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1127" y="1143" width="204" height="52" as="geometry" />
+          <mxGeometry x="1126" y="1107" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-10" value="应用服务器集群 (运行各业务服务)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1137" y="1245" width="184" height="70" as="geometry" />
+          <mxGeometry x="1090" y="1209" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-11" value="缓存数据库集群 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1116" y="1364" width="226" height="52" as="geometry" />
+          <mxGeometry x="1115" y="1328" width="226" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-12" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1178" y="1490" width="108" height="52" as="geometry" />
