@@ -82,13 +82,12 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-25" value="短信/邮件网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3129" y="1553" width="164" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-6" target="Txe6CZd5IbQ0K2SI36va-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2291.25" y="680" />
+              <mxPoint x="2309" y="712" />
+              <mxPoint x="2050" y="250" />
             </Array>
-            <mxPoint x="1984.7499999999995" y="133" as="sourcePoint" />
-            <mxPoint x="1992.75" y="368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-7" target="Txe6CZd5IbQ0K2SI36va-8">
