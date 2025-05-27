@@ -49,7 +49,7 @@
           <mxGeometry x="2881" y="1178" width="814" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-1" value="数据存储层 (Data Persistence Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1268" y="1178" width="1594" height="120" as="geometry" />
+          <mxGeometry x="1268" y="1178" width="1192" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-2" value="智能核心层 (Intelligence Core Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="1009" width="509" height="289" as="geometry" />
