@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-0" value="外部系统对接区" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="824" y="1628" width="670" height="306" as="geometry" />
+          <mxGeometry x="827" y="1830" width="670" height="306" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-1" value="应用服务器区 (内网)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1081" y="1016" width="321" height="426" as="geometry" />
@@ -97,19 +97,19 @@
           <mxGeometry x="925" y="1415" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-17" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1007" y="1653" width="108" height="52" as="geometry" />
+          <mxGeometry x="1010" y="1855" width="108" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-18" value="集成网关 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="975" y="1755" width="173" height="52" as="geometry" />
+          <mxGeometry x="978" y="1957" width="173" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-19" value="机场航班信息系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="859" y="1857" width="188" height="52" as="geometry" />
+          <mxGeometry x="862" y="2059" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-20" value="机场HR系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1153" y="1857" width="143" height="52" as="geometry" />
+          <mxGeometry x="1156" y="2059" width="143" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-21" value="短信/邮件网关" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1295" y="1653" width="164" height="52" as="geometry" />
+          <mxGeometry x="1298" y="1855" width="164" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-4" target="36_Z7oIR8KMgcpxH5YFe-5">
           <mxGeometry relative="1" as="geometry">
@@ -194,14 +194,14 @@
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-18" target="36_Z7oIR8KMgcpxH5YFe-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="953" y="1832" />
+              <mxPoint x="956" y="2034" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-18" target="36_Z7oIR8KMgcpxH5YFe-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1224" y="1832" />
+              <mxPoint x="1227" y="2034" />
             </Array>
           </mxGeometry>
         </mxCell>
