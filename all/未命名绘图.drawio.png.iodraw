@@ -16,9 +16,6 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;fontStyle=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="620" width="2156" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-4" target="Txe6CZd5IbQ0K2SI36va-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;fontSize=30;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="375" width="2091" height="120" as="geometry" />
         </mxCell>
@@ -92,12 +89,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-7" target="Txe6CZd5IbQ0K2SI36va-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2595" y="712" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-27" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0;rounded=0;edgeStyle=isometricEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-7" target="Txe6CZd5IbQ0K2SI36va-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-8" target="Txe6CZd5IbQ0K2SI36va-9">
           <mxGeometry relative="1" as="geometry">
@@ -412,9 +405,6 @@
               <mxPoint x="1500" y="1178" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-68" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;fontSize=30;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="175" width="2091" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
