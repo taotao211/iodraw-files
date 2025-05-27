@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-0" value="外部依赖与集成 (External Dependencies &amp; Integrations)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-0" value="外部依赖与集成 (External Dependencies &amp; Integrations)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2514" y="1519" width="814" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-1" value="数据存储层 (Data Persistence Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
