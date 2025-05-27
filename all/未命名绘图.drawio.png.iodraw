@@ -35,25 +35,25 @@
           <mxGeometry x="1126" y="1107" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-10" value="应用服务器集群 (运行各业务服务)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="1209" width="270" height="70" as="geometry" />
+          <mxGeometry x="1086" y="1209" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-11" value="缓存数据库集群 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1115" y="1328" width="226" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-12" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1178" y="1490" width="108" height="52" as="geometry" />
+          <mxGeometry x="1178" y="1440" width="108" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-13" value="Llama3.3 70B 推理服务器集群 (多GPU)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1626" width="235" height="70" as="geometry" />
+          <mxGeometry x="710" y="1576" width="235" height="70" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-14" value="主数据库集群 (PostgreSQL/MySQL - 主从/集群)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="995" y="1617" width="209" height="87" as="geometry" />
+          <mxGeometry x="995" y="1567" width="209" height="87" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-15" value="日志服务器 (ELK/Loki)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1254" y="1635" width="221" height="52" as="geometry" />
+          <mxGeometry x="1254" y="1585" width="221" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-16" value="数据集成服务器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1525" y="1635" width="172" height="52" as="geometry" />
+          <mxGeometry x="1525" y="1585" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-17" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1073" y="1779" width="108" height="52" as="geometry" />
@@ -115,28 +115,28 @@
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-12" target="36_Z7oIR8KMgcpxH5YFe-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="828" y="1567" />
+              <mxPoint x="828" y="1517" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-12" target="36_Z7oIR8KMgcpxH5YFe-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1100" y="1567" />
+              <mxPoint x="1100" y="1517" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-12" target="36_Z7oIR8KMgcpxH5YFe-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1365" y="1567" />
+              <mxPoint x="1365" y="1517" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;fontSize=20;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="36_Z7oIR8KMgcpxH5YFe-12" target="36_Z7oIR8KMgcpxH5YFe-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1611" y="1567" />
+              <mxPoint x="1611" y="1517" />
             </Array>
           </mxGeometry>
         </mxCell>
