@@ -55,10 +55,10 @@
           <mxGeometry x="870" y="1230" width="509" height="289" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="700" width="2156" height="247" as="geometry" />
+          <mxGeometry x="1120" y="620" width="2156" height="247" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="370" width="2091" height="120" as="geometry" />
+          <mxGeometry x="1130" y="350" width="2091" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-5" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2100" y="88" width="592" height="102" as="geometry" />
@@ -70,31 +70,31 @@
           <mxGeometry x="2406" y="113" width="251" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-8" value="API网关 (Nginx/Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2188" y="395" width="216" height="70" as="geometry" />
+          <mxGeometry x="2188" y="375" width="216" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-9" value="用户与权限管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1165" y="860" width="204" height="52" as="geometry" />
+          <mxGeometry x="1155" y="780" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-10" value="排班规则引擎服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1419" y="860" width="188" height="52" as="geometry" />
+          <mxGeometry x="1409" y="780" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-11" value="智能排班调度服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1494" y="725" width="188" height="52" as="geometry" />
+          <mxGeometry x="1484" y="645" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-12" value="动态调整与优化服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2046" y="725" width="204" height="52" as="geometry" />
+          <mxGeometry x="2036" y="645" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-13" value="异常智能处理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2664" y="725" width="188" height="52" as="geometry" />
+          <mxGeometry x="2654" y="645" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-14" value="通知服务 (邮件/短信/系统消息)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2813" y="852" width="216" height="70" as="geometry" />
+          <mxGeometry x="2803" y="772" width="216" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-15" value="报表与分析服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3079" y="860" width="172" height="52" as="geometry" />
+          <mxGeometry x="3069" y="780" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-16" value="数据集成服务 (航班/HR)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2358" y="860" width="232" height="52" as="geometry" />
+          <mxGeometry x="2348" y="780" width="232" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-17" value="Llama3.3 70B接口服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1035" y="1263" width="217" height="52" as="geometry" />
@@ -198,7 +198,7 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-11" target="Txe6CZd5IbQ0K2SI36va-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1513" y="802" />
+              <mxPoint x="1503" y="722" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -221,16 +221,16 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-11" target="Txe6CZd5IbQ0K2SI36va-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1683" y="802" />
-              <mxPoint x="1683" y="827" />
+              <mxPoint x="1673" y="722" />
+              <mxPoint x="1673" y="747" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=1;entryY=0.04;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-12" target="Txe6CZd5IbQ0K2SI36va-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1743" y="802" />
-              <mxPoint x="1743" y="827" />
+              <mxPoint x="1733" y="722" />
+              <mxPoint x="1733" y="747" />
             </Array>
           </mxGeometry>
         </mxCell>
