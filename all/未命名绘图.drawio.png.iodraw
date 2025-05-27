@@ -11,7 +11,7 @@
           <mxGeometry x="1081" y="1016" width="321" height="426" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-2" value="DMZ区 / 安全接入区" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="642" width="318" height="324" as="geometry" />
+          <mxGeometry x="1070" y="620" width="318" height="324" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-3" value="用户访问区" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1104" y="490" width="250" height="102" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="1139" y="515" width="180" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-5" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1175" y="667" width="108" height="52" as="geometry" />
+          <mxGeometry x="1175" y="645" width="108" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-6" value="API网关负载均衡器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1132" y="769" width="194" height="52" as="geometry" />
+          <mxGeometry x="1132" y="747" width="194" height="52" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-7" value="API网关集群 (Nginx/Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1105" y="871" width="248" height="70" as="geometry" />
+          <mxGeometry x="1105" y="849" width="248" height="70" as="geometry" />
         </mxCell>
         <mxCell id="36_Z7oIR8KMgcpxH5YFe-8" value="防火墙" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1175" y="1041" width="108" height="52" as="geometry" />
