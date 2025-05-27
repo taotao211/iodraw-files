@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Txe6CZd5IbQ0K2SI36va-0" value="外部依赖与集成 (External Dependencies &amp; Integrations)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2514" y="1519" width="846" height="141" as="geometry" />
+          <mxGeometry x="2559.5" y="1189" width="846" height="141" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-1" value="数据存储层 (Data Persistence Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontStyle=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1430" y="1519" width="1020" height="141" as="geometry" />
+          <mxGeometry x="1475.5" y="1189" width="1020" height="141" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-2" value="智能核心层 (Intelligence Core Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;verticalAlign=top;align=left;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="1350" width="540" height="289" as="geometry" />
+          <mxGeometry x="925.5" y="1020" width="540" height="289" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;fontStyle=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="620" width="2156" height="247" as="geometry" />
@@ -56,31 +56,31 @@
           <mxGeometry x="2029" y="760" width="311" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-17" value="Llama3.3 70B接口服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1007.5" y="1400" width="285" height="52" as="geometry" />
+          <mxGeometry x="1053" y="1070" width="285" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-18" value="提示词工程模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="1553" width="185" height="52" as="geometry" />
+          <mxGeometry x="945.5" y="1223" width="185" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-19" value="Llama3.3 70B推理引擎 (自建/云服务)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="1544" width="273" height="70" as="geometry" />
+          <mxGeometry x="1165.5" y="1214" width="273" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-20" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1775" y="1569" width="295" height="70" as="geometry" />
+          <mxGeometry x="1820.5" y="1239" width="295" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-21" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1445" y="1578" width="295" height="52" as="geometry" />
+          <mxGeometry x="1490.5" y="1248" width="295" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-22" value="日志存储 (ELK Stack/Loki)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2115" y="1578" width="320" height="52" as="geometry" />
+          <mxGeometry x="2160.5" y="1248" width="320" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-23" value="机场航班信息系统 (接口)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2530" y="1589" width="281" height="52" as="geometry" />
+          <mxGeometry x="2575.5" y="1259" width="281" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-24" value="机场HR系统 (接口/数据导入)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2860" y="1580" width="234" height="70" as="geometry" />
+          <mxGeometry x="2905.5" y="1250" width="234" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-25" value="短信/邮件网关" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3129" y="1580" width="191" height="52" as="geometry" />
+          <mxGeometry x="3174.5" y="1250" width="191" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-26" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-6" target="Txe6CZd5IbQ0K2SI36va-8">
           <mxGeometry relative="1" as="geometry" />
@@ -146,14 +146,14 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-17" target="Txe6CZd5IbQ0K2SI36va-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1001" y="1469" />
+              <mxPoint x="1046.5" y="1139" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Txe6CZd5IbQ0K2SI36va-17" target="Txe6CZd5IbQ0K2SI36va-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1246" y="1469" />
+              <mxPoint x="1291.5" y="1139" />
             </Array>
           </mxGeometry>
         </mxCell>
