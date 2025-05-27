@@ -61,7 +61,7 @@
           <mxGeometry x="1286" y="712" width="2091" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-5" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2163" y="560" width="592" height="102" as="geometry" />
+          <mxGeometry x="1930" y="200" width="592" height="102" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-6" value="Web应用 (浏览器访问)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2198" y="585" width="221" height="52" as="geometry" />
