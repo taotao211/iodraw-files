@@ -13,7 +13,7 @@
         <mxCell id="Txe6CZd5IbQ0K2SI36va-2" value="智能核心层 (Intelligence Core Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="1350" width="509" height="289" as="geometry" />
         </mxCell>
-        <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;fontStyle=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="620" width="2156" height="247" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
