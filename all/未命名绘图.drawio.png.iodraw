@@ -32,7 +32,7 @@
           <mxGeometry x="1950" y="400" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-9" value="用户与权限管理服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1155" y="780" width="204" height="52" as="geometry" />
+          <mxGeometry x="1137" y="717.5" width="235" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-10" value="排班规则引擎服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1409" y="780" width="188" height="52" as="geometry" />
