@@ -1,83 +1,83 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2041" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Txe6CZd5IbQ0K2SI36va-0" value="外部依赖与集成 (External Dependencies &amp; Integrations)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2560" y="1160" width="850" height="140" as="geometry" />
+          <mxGeometry x="2485" y="1160" width="850" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-1" value="数据存储层 (Data Persistence Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontStyle=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1480" y="1160" width="1020" height="140" as="geometry" />
+          <mxGeometry x="1245" y="1160" width="1020" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-2" value="智能核心层 (Intelligence Core Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;verticalAlign=top;align=left;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="990" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-3" value="应用服务层 (Application Service Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="620" width="2160" height="250" as="geometry" />
+          <mxGeometry x="231" y="620" width="2160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-4" value="展现与网关层 (Presentation &amp; Gateway Tier)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=left;fontSize=30;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="380" width="2090" height="120" as="geometry" />
+          <mxGeometry x="355" y="380" width="2090" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-5" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;align=left;fontSize=30;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1610" y="190" width="1070" height="100" as="geometry" />
+          <mxGeometry x="1487" y="190" width="1070" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-6" value="Web应用 (浏览器访问)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1880" y="220" width="290" height="50" as="geometry" />
+          <mxGeometry x="2054" y="220" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-7" value="移动端友好UI (通过浏览器)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2230" y="210" width="320" height="50" as="geometry" />
+          <mxGeometry x="2483" y="210" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-8" value="API网关 (Nginx/Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1950" y="400" width="550" height="70" as="geometry" />
+          <mxGeometry x="2013" y="400" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-9" value="用户与权限管理服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="720" width="240" height="50" as="geometry" />
+          <mxGeometry x="1369" y="720" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-10" value="排班规则引擎服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1410" y="780" width="320" height="50" as="geometry" />
+          <mxGeometry x="1507" y="780" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-11" value="智能排班调度服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1500" y="680" width="280" height="50" as="geometry" />
+          <mxGeometry x="1793" y="680" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-12" value="动态调整与优化服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2040" y="650" width="310" height="50" as="geometry" />
+          <mxGeometry x="2311" y="650" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-13" value="异常智能处理服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2550" y="650" width="290" height="50" as="geometry" />
+          <mxGeometry x="2676" y="650" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-14" value="通知服务 (邮件/短信/系统消息)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2510" y="750" width="370" height="70" as="geometry" />
+          <mxGeometry x="2547" y="750" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-15" value="报表与分析服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2960" y="750" width="200" height="50" as="geometry" />
+          <mxGeometry x="3076" y="750" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-16" value="数据集成服务 (航班/HR)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2030" y="760" width="310" height="50" as="geometry" />
+          <mxGeometry x="2222" y="760" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-17" value="Llama3.3 70B接口服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="1040" width="290" height="50" as="geometry" />
+          <mxGeometry x="1078" y="1040" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-18" value="提示词工程模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="1190" width="190" height="50" as="geometry" />
+          <mxGeometry x="1039" y="1190" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-19" value="Llama3.3 70B推理引擎 (自建/云服务)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="1180" width="270" height="70" as="geometry" />
+          <mxGeometry x="1443" y="1180" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-20" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1820" y="1210" width="300" height="70" as="geometry" />
+          <mxGeometry x="1961" y="1210" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-21" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1490" y="1220" width="300" height="50" as="geometry" />
+          <mxGeometry x="1694" y="1220" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-22" value="日志存储 (ELK Stack/Loki)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2160" y="1220" width="320" height="50" as="geometry" />
+          <mxGeometry x="2395" y="1220" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-23" value="机场航班信息系统 (接口)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2580" y="1230" width="280" height="50" as="geometry" />
+          <mxGeometry x="2859" y="1230" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-24" value="机场HR系统 (接口/数据导入)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2910" y="1220" width="230" height="70" as="geometry" />
+          <mxGeometry x="2972" y="1220" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Txe6CZd5IbQ0K2SI36va-25" value="短信/邮件网关" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3170" y="1220" width="190" height="50" as="geometry" />
