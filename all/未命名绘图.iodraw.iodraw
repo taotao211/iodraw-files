@@ -32,7 +32,7 @@
           <mxGeometry x="981" y="639" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-10" value="报表统计与分析模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1319" y="766" width="204" height="52" as="geometry" />
+          <mxGeometry x="1319.5" y="435" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-11" value="系统管理与配置模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1349" y="150" width="204" height="52" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="100" y="80" width="123" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-15" value="工位HMI &amp; 声光报警器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="55" y="766" width="254" height="52" as="geometry" />
+          <mxGeometry x="50" y="550" width="254" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-16" value="本地/中央数据库/存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="359" y="766" width="220" height="52" as="geometry" />
