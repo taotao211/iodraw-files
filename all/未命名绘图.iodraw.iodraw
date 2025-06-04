@@ -53,10 +53,10 @@
           <mxGeometry x="750" y="1144" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-17" value="中心服务器/本地存储服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1849" y="700" width="260" height="52" as="geometry" />
+          <mxGeometry x="1424" y="1240" width="260" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-19" value="报表与统计模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1937" y="898" width="172" height="52" as="geometry" />
+          <mxGeometry x="1506" y="1119" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-20" value="系统管理与配置模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1818" y="164" width="204" height="52" as="geometry" />
