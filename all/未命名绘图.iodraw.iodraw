@@ -35,10 +35,10 @@
           <mxGeometry x="553.75" y="400" width="137" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-70" value="行为合规判断模块 (SOP规则库)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="685" y="642" width="188" height="70" as="geometry" />
+          <mxGeometry x="528.25" y="540" width="188" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-71" value="结果展示与报警模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="384" y="788" width="204" height="52" as="geometry" />
+          <mxGeometry x="330" y="698" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-72" value="边缘数据存储 (NG视频片段)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="669" y="788" width="258" height="52" as="geometry" />
