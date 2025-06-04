@@ -65,7 +65,7 @@
           <mxGeometry x="394" y="1319" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-22" value="产线PLC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="1531" width="119" height="52" as="geometry" />
+          <mxGeometry x="1480" y="1430" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-23" value="制造执行系统 (MES)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="691" y="1514" width="201" height="52" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="517" y="1514" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-26" value="工位环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1325" y="1531" width="124" height="52" as="geometry" />
+          <mxGeometry x="1213" y="1479" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-27" value="包含:" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="600" y="1319" width="98" height="52" as="geometry" />
