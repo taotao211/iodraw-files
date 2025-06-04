@@ -32,7 +32,7 @@
           <mxGeometry x="55" y="386" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-69" value="AI分析引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="710" y="514" width="137" height="52" as="geometry" />
+          <mxGeometry x="553.75" y="400" width="137" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-70" value="行为合规判断模块 (SOP规则库)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="685" y="642" width="188" height="70" as="geometry" />
