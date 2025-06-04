@@ -13,9 +13,6 @@
         <mxCell id="jphsCiMWuBB0gs_klbJS-3" value="核心业务模块 (Core Business Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="634" y="20" width="586" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="jphsCiMWuBB0gs_klbJS-4" value="视频采集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="936" y="184" width="220" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-5" value="AI分析引擎模块" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="825" y="370" width="161" height="161" as="geometry" />
         </mxCell>
@@ -82,7 +79,7 @@
         <mxCell id="jphsCiMWuBB0gs_klbJS-26" value="" style="startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=1;entryY=0.09;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="jphsCiMWuBB0gs_klbJS-11" target="jphsCiMWuBB0gs_klbJS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jphsCiMWuBB0gs_klbJS-27" value="" style="startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=1;entryY=0.32;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" target="jphsCiMWuBB0gs_klbJS-6">
+        <mxCell id="jphsCiMWuBB0gs_klbJS-27" value="" style="startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=1;entryY=0.32;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="jphsCiMWuBB0gs_klbJS-4" target="jphsCiMWuBB0gs_klbJS-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1370.1999999999994" y="298" as="sourcePoint" />
           </mxGeometry>
@@ -127,6 +124,15 @@
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-38" value="" style="startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=1;entryY=0.36;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="jphsCiMWuBB0gs_klbJS-12" target="jphsCiMWuBB0gs_klbJS-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jphsCiMWuBB0gs_klbJS-39" value="" style="startArrow=none;endArrow=block;entryX=1;entryY=0.32;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="jphsCiMWuBB0gs_klbJS-12" target="jphsCiMWuBB0gs_klbJS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370.1999999999994" y="298" as="sourcePoint" />
+            <mxPoint x="897" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jphsCiMWuBB0gs_klbJS-4" value="视频采集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="960" y="276.5" width="220" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
