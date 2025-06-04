@@ -62,34 +62,34 @@
           <mxGeometry x="1980" y="128" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-21" value="对外接口网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1369" width="156" height="52" as="geometry" />
+          <mxGeometry x="440" y="1389" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-22" value="产线PLC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1998" y="359" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-23" value="制造执行系统 (MES)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="987" y="1564" width="201" height="52" as="geometry" />
+          <mxGeometry x="737" y="1584" width="201" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-24" value="质量管理系统 (QMS)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1564" width="203" height="52" as="geometry" />
+          <mxGeometry x="310" y="1584" width="203" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-25" value="中控系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="813" y="1564" width="124" height="52" as="geometry" />
+          <mxGeometry x="563" y="1584" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-26" value="工位环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1798" y="359" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-27" value="包含:" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="896" y="1369" width="98" height="52" as="geometry" />
+          <mxGeometry x="646" y="1389" width="98" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-28" value="内置SOP规则引擎," style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="1369" width="190" height="52" as="geometry" />
+          <mxGeometry x="794" y="1389" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-29" value="状态机逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="1369" width="140" height="52" as="geometry" />
+          <mxGeometry x="1034" y="1389" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-30" value="可选云部署或本地服务器集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1474" y="1360" width="252" height="70" as="geometry" />
+          <mxGeometry x="1224" y="1380" width="252" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-31" value="视频流" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-8" target="f9-sFRa1ta9PNR8QV05A-9">
           <mxGeometry relative="1" as="geometry">
@@ -230,21 +230,21 @@
         <mxCell id="f9-sFRa1ta9PNR8QV05A-49" value="数据上传" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-21" target="f9-sFRa1ta9PNR8QV05A-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="661" y="1455" />
+              <mxPoint x="411" y="1475" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-50" value="数据拉取接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-21" target="f9-sFRa1ta9PNR8QV05A-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="875" y="1455" />
+              <mxPoint x="625" y="1475" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-51" value="数据交互" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-21" target="f9-sFRa1ta9PNR8QV05A-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1087" y="1455" />
+              <mxPoint x="837" y="1475" />
             </Array>
           </mxGeometry>
         </mxCell>
