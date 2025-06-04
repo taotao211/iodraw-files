@@ -62,7 +62,7 @@
           <mxGeometry x="1506" y="750" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-79" value="系统管理与配置模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1604" y="54" width="204" height="52" as="geometry" />
+          <mxGeometry x="1670" y="480" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-80" value="对外接口网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1052" y="1036" width="156" height="52" as="geometry" />
