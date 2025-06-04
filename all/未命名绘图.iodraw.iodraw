@@ -44,16 +44,16 @@
           <mxGeometry x="273" y="80" width="175" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-14" value="MES/PCS" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="123" height="52" as="geometry" />
+          <mxGeometry x="70" y="132" width="123" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-15" value="工位HMI &amp; 声光报警器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="50" y="550" width="254" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-16" value="本地/中央数据库/存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="359" y="766" width="220" height="52" as="geometry" />
+          <mxGeometry x="350" y="558" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-17" value="QMS质量管理系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="137" y="329" width="186" height="52" as="geometry" />
+          <mxGeometry x="70" y="328.5" width="186" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-18" value="中控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="373" y="329" width="124" height="52" as="geometry" />
