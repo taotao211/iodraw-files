@@ -10,17 +10,17 @@
         <mxCell id="jphsCiMWuBB0gs_klbJS-2" value="支撑与管理模块 (Supporting &amp; Management Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1240" y="20" width="363" height="823" as="geometry" />
         </mxCell>
-        <mxCell id="jphsCiMWuBB0gs_klbJS-3" value="核心业务模块 (Core Business Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="jphsCiMWuBB0gs_klbJS-3" value="核心业务模块 (Core Business Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="634" y="147" width="586" height="569" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-4" value="视频采集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="931" y="172" width="220" height="52" as="geometry" />
+          <mxGeometry x="928" y="200" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-5" value="AI分析引擎模块" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="814" y="274" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-6" value="生产信息集成模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="693" y="172" width="188" height="52" as="geometry" />
+          <mxGeometry x="690" y="200" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-7" value="行为合规判断模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="858" y="511" width="188" height="52" as="geometry" />
