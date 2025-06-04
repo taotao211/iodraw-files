@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f9-sFRa1ta9PNR8QV05A-60" value="应用与交互层 (Application &amp; Interaction Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="259" y="941" width="651" height="120" as="geometry" />
+          <mxGeometry x="50" y="1070" width="651" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-61" value="边缘计算与分析层 (Edge Computing &amp; Analysis Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="216" width="1381" height="649" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="1178" y="386" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-74" value="工位HMI显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="975" width="165" height="52" as="geometry" />
+          <mxGeometry x="85" y="1104" width="165" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-75" value="声光报警器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="975" width="140" height="52" as="geometry" />
+          <mxGeometry x="391" y="1104" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-76" value="中心服务器/本地存储服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1573" y="386" width="260" height="52" as="geometry" />
