@@ -38,7 +38,7 @@
           <mxGeometry x="1349" y="150" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-12" value="对外接口模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="277" width="156" height="52" as="geometry" />
+          <mxGeometry x="1343.5" y="310" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-13" value="产线PLC/传感器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="132" width="175" height="52" as="geometry" />
