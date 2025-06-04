@@ -68,7 +68,7 @@
           <mxGeometry x="1052" y="1036" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-81" value="产线PLC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1678" y="249" width="119" height="52" as="geometry" />
+          <mxGeometry x="1506" y="480" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-82" value="制造执行系统 (MES)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1231" width="201" height="52" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="1026" y="1231" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-85" value="工位环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1478" y="249" width="124" height="52" as="geometry" />
+          <mxGeometry x="1480" y="340" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-86" value="视频流" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-67" target="f9-sFRa1ta9PNR8QV05A-68">
           <mxGeometry relative="1" as="geometry">
