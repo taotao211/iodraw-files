@@ -59,37 +59,37 @@
           <mxGeometry x="1506" y="1119" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-20" value="系统管理与配置模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1593" y="1370" width="204" height="52" as="geometry" />
+          <mxGeometry x="1547" y="1300" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-21" value="对外接口网关" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1389" width="156" height="52" as="geometry" />
+          <mxGeometry x="394" y="1319" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-22" value="产线PLC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1571" y="1601" width="119" height="52" as="geometry" />
+          <mxGeometry x="1525" y="1531" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-23" value="制造执行系统 (MES)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="737" y="1584" width="201" height="52" as="geometry" />
+          <mxGeometry x="691" y="1514" width="201" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-24" value="质量管理系统 (QMS)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1584" width="203" height="52" as="geometry" />
+          <mxGeometry x="264" y="1514" width="203" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-25" value="中控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1584" width="124" height="52" as="geometry" />
+          <mxGeometry x="517" y="1514" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-26" value="工位环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="1601" width="124" height="52" as="geometry" />
+          <mxGeometry x="1325" y="1531" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-27" value="包含:" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="646" y="1389" width="98" height="52" as="geometry" />
+          <mxGeometry x="600" y="1319" width="98" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-28" value="内置SOP规则引擎," style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="794" y="1389" width="190" height="52" as="geometry" />
+          <mxGeometry x="748" y="1319" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-29" value="状态机逻辑" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="1389" width="140" height="52" as="geometry" />
+          <mxGeometry x="988" y="1319" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-30" value="可选云部署或本地服务器集群" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1224" y="1380" width="252" height="70" as="geometry" />
+          <mxGeometry x="1178" y="1310" width="252" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-31" value="视频流" style="startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;fontSize=20;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-8" target="f9-sFRa1ta9PNR8QV05A-9">
           <mxGeometry x="0.0056" relative="1" as="geometry">
