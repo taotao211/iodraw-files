@@ -14,16 +14,16 @@
           <mxGeometry x="289" y="20" width="1095" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-63" value="高清工业相机1 (顶视/斜视)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="324" y="79" width="253" height="52" as="geometry" />
+          <mxGeometry x="323.5" y="69" width="253" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-64" value="高清工业相机2 (侧视/补充视角, 可选)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="627" y="70" width="219" height="70" as="geometry" />
+          <mxGeometry x="602.5" y="60" width="303.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-65" value="补光光源" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="953" y="79" width="124" height="52" as="geometry" />
+          <mxGeometry x="952.5" y="69" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-66" value="产品到位传感器 (光电/ proximité)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="70" width="223" height="70" as="geometry" />
+          <mxGeometry x="1126.5" y="60" width="223" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-67" value="边缘计算单元 (IPC + GPU / NVIDIA Jetson)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="906" y="241" width="251" height="70" as="geometry" />
