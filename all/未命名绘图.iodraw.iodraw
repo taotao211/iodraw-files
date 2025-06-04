@@ -44,7 +44,7 @@
           <mxGeometry x="989" y="898" width="258" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-14" value="生产信息集成模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1498" y="496" width="188" height="52" as="geometry" />
+          <mxGeometry x="1502" y="752" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-15" value="工位HMI显示屏" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="390" y="1190" width="165" height="52" as="geometry" />
@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-18" target="f9-sFRa1ta9PNR8QV05A-2">
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.62;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-18" target="f9-sFRa1ta9PNR8QV05A-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1647" y="458" />
