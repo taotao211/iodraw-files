@@ -11,7 +11,7 @@
           <mxGeometry x="340" y="326" width="1381" height="649" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-3" value="感知层 (Perception Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="460" y="94" width="1095" height="160" as="geometry" />
+          <mxGeometry x="460" y="20" width="1095" height="160" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-4" value="高清工业相机1 (顶视/斜视)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="495" y="94" width="253" height="52" as="geometry" />
