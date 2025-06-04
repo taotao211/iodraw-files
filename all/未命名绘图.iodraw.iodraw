@@ -32,16 +32,16 @@
           <mxGeometry x="375" y="496" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-10" value="AI分析引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="624" width="137" height="52" as="geometry" />
+          <mxGeometry x="914.5" y="570" width="137" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-11" value="行为合规判断模块 (SOP规则库)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="752" width="188" height="70" as="geometry" />
+          <mxGeometry x="889.5" y="698" width="188" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-12" value="结果展示与报警模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="704" y="898" width="204" height="52" as="geometry" />
+          <mxGeometry x="540" y="761" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-13" value="边缘数据存储 (NG视频片段)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="989" y="898" width="258" height="52" as="geometry" />
+          <mxGeometry x="878.5" y="844" width="258" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-14" value="生产信息集成模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1502" y="752" width="188" height="52" as="geometry" />
