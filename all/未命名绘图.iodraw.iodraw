@@ -47,10 +47,10 @@
           <mxGeometry x="1178" y="386" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-74" value="工位HMI显示屏" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1104" width="165" height="52" as="geometry" />
+          <mxGeometry x="90" y="1117" width="165" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-75" value="声光报警器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="391" y="1104" width="140" height="52" as="geometry" />
+          <mxGeometry x="396" y="1117" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-76" value="中心服务器/本地存储服务器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1506" y="600" width="260" height="52" as="geometry" />
