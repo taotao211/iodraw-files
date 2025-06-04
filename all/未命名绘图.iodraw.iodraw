@@ -35,10 +35,10 @@
           <mxGeometry x="1319" y="766" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-11" value="系统管理与配置模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1364" y="45" width="204" height="52" as="geometry" />
+          <mxGeometry x="1349" y="150" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-12" value="对外接口模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="172" width="156" height="52" as="geometry" />
+          <mxGeometry x="1260" y="277" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-13" value="产线PLC/传感器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="273" y="80" width="175" height="52" as="geometry" />
