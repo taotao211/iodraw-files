@@ -178,7 +178,7 @@
         <mxCell id="f9-sFRa1ta9PNR8QV05A-57" value="" style="startArrow=none;endArrow=block;exitX=0.8;exitY=0.99;entryX=0;entryY=0.24;rounded=0;fontSize=20;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-8" target="f9-sFRa1ta9PNR8QV05A-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-58" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.62;entryY=0;rounded=0;fontSize=20;edgeStyle=isometricEdgeStyle;elbow=vertical;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-23" target="f9-sFRa1ta9PNR8QV05A-18">
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-58" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.62;entryY=0;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-23" target="f9-sFRa1ta9PNR8QV05A-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="987" y="1597" as="sourcePoint" />
             <mxPoint x="1615" y="496" as="targetPoint" />
