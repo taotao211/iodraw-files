@@ -137,20 +137,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-95" value="SOP更新/模型下发" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.2;entryX=0.77;entryY=0.99;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-76" target="f9-sFRa1ta9PNR8QV05A-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1174" y="348" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-95" value="SOP更新/模型下发" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.2;entryX=0.77;entryY=0.99;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-76" target="f9-sFRa1ta9PNR8QV05A-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-66" target="f9-sFRa1ta9PNR8QV05A-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1238" y="178" />
-              <mxPoint x="1738" y="216" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-66" target="f9-sFRa1ta9PNR8QV05A-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.48;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-81" target="f9-sFRa1ta9PNR8QV05A-73">
           <mxGeometry relative="1" as="geometry">
@@ -227,13 +218,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-65" target="f9-sFRa1ta9PNR8QV05A-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1015" y="178" />
-              <mxPoint x="1540" y="216" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-65" target="f9-sFRa1ta9PNR8QV05A-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.39;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-67" target="f9-sFRa1ta9PNR8QV05A-74">
           <mxGeometry relative="1" as="geometry">
@@ -252,12 +238,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.24;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-67" target="f9-sFRa1ta9PNR8QV05A-76">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1086" y="348" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.24;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-67" target="f9-sFRa1ta9PNR8QV05A-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
