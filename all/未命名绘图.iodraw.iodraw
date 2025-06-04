@@ -10,7 +10,7 @@
         <mxCell id="jphsCiMWuBB0gs_klbJS-2" value="支撑与管理模块 (Supporting &amp; Management Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1240" y="20" width="380" height="823" as="geometry" />
         </mxCell>
-        <mxCell id="jphsCiMWuBB0gs_klbJS-3" value="核心业务模块 (Core Business Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="jphsCiMWuBB0gs_klbJS-3" value="核心业务模块 (Core Business Modules)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;align=left;verticalAlign=top;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="634" y="20" width="586" height="820" as="geometry" />
         </mxCell>
         <mxCell id="jphsCiMWuBB0gs_klbJS-5" value="AI分析引擎模块" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
