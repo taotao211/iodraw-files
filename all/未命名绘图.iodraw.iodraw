@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="wnHHn_23ko2d0tdgl-fJ">
-    <mxGraphModel dx="3187" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,12 +131,8 @@
         <mxCell id="f9-sFRa1ta9PNR8QV05A-42" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.48;entryY=0;rounded=0;fontSize=20;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-22" target="f9-sFRa1ta9PNR8QV05A-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9-sFRa1ta9PNR8QV05A-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.62;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-18" target="f9-sFRa1ta9PNR8QV05A-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1647" y="458" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="f9-sFRa1ta9PNR8QV05A-43" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.62;entryY=0;rounded=0;fontSize=20;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-18" target="f9-sFRa1ta9PNR8QV05A-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f9-sFRa1ta9PNR8QV05A-44" value="结构化结果" style="startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0;entryY=0.22;rounded=0;fontSize=20;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="f9-sFRa1ta9PNR8QV05A-11" target="f9-sFRa1ta9PNR8QV05A-18">
           <mxGeometry relative="1" as="geometry" />
