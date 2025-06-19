@@ -79,16 +79,16 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-24" value="Llama 3.3 70B核心引擎" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="889" y="841" width="331" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-25" value="需求预测模型 (基于Llama微调)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="370" y="933" width="362" height="70" as="geometry" />
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-25" value="需求预测模型 (基于Llama微调)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="340" y="933" width="392" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-26" value="排班优化算法 (Llama驱动/配合)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-26" value="排班优化算法 (Llama驱动/配合)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1505.5" y="934" width="419" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-27" value="自然语言交互接口 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-27" value="自然语言交互接口 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="827" y="942" width="290" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-28" value="知识库与规则库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-28" value="知识库与规则库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1181" y="943" width="241" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-29" value="关系型数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
