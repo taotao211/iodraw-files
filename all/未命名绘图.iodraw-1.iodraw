@@ -38,7 +38,7 @@
           <mxGeometry x="2234" y="757" width="151" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-80" value="API 网关 (例如 Kong, Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2182" y="909" width="256" height="70" as="geometry" />
+          <mxGeometry x="2146" y="900" width="318" height="89" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-81" value="认证与授权服务 (OAuth2/JWT)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2960" y="1020" width="250" height="78" as="geometry" />
