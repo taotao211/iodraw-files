@@ -74,10 +74,10 @@
           <mxGeometry x="1786" y="1070" width="217" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-24" value="数据库主节点Pod (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1791" y="1256" width="182" height="70" as="geometry" />
+          <mxGeometry x="1903" y="1300" width="329" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-25" value="数据库从节点Pod" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="1401" width="182" height="52" as="geometry" />
+          <mxGeometry x="1630" y="1401" width="250" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-26" value="数据仓库Pod" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2260" y="1401" width="234" height="52" as="geometry" />
