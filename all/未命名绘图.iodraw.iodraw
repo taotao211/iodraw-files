@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-1" value="外部依赖/服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-1" value="外部依赖/服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1686" width="1560" height="145" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-2" value="Kubernetes集群 (K8s Cluster)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-6" value="WN2" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2085" y="681" width="412" height="476" as="geometry" />
         </mxCell>
-        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-7" value="WN1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-7" value="WN1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1070" y="554" width="975" height="433" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-8" value="Master Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
