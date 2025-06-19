@@ -44,13 +44,13 @@
           <mxGeometry x="3220" y="1037" width="172" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-82" value="排班微服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="1037" width="140" height="52" as="geometry" />
+          <mxGeometry x="2770" y="1037" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-83" value="调度微服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2687" y="1037" width="140" height="52" as="geometry" />
+          <mxGeometry x="2499" y="1037" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-84" value="预测微服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2404" y="1037" width="140" height="52" as="geometry" />
+          <mxGeometry x="2239.5" y="1037" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-85" value="通知微服务 (邮件, 短信, 推送)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1892" y="1028" width="232" height="70" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="2136" y="1371" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-92" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2771" y="1254" width="194" height="52" as="geometry" />
+          <mxGeometry x="2734" y="1371" width="194" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-93" value="消息队列 (RabbitMQ/Kafka)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1371" width="256" height="52" as="geometry" />
