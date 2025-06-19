@@ -25,79 +25,79 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-75" value="客户端层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;fontColor=#0099CC;" vertex="1" parent="1">
           <mxGeometry x="1960" y="430" width="690" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-76" value="网页浏览器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-76" value="网页浏览器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2040" y="485" width="236" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-77" value="移动应用 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-77" value="移动应用 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2326" y="485" width="264" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-78" value="前端框架 (例如 React/Vue/Angular)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-78" value="前端框架 (例如 React/Vue/Angular)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2090" y="660" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-79" value="API 客户端库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-79" value="API 客户端库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2175" y="760" width="275" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-80" value="API 网关 (例如 Kong, Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-80" value="API 网关 (例如 Kong, Spring Cloud Gateway)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2146" y="900" width="318" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-81" value="认证与授权服务 (OAuth2/JWT)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-81" value="认证与授权服务 (OAuth2/JWT)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2960" y="1020" width="250" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-82" value="排班微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-82" value="排班微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2730" y="1037" width="180" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-83" value="调度微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-83" value="调度微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2450" y="1037" width="189" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-84" value="预测微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-84" value="预测微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2190" y="1037" width="189.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-85" value="通知微服务 (邮件, 短信, 推送)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-85" value="通知微服务 (邮件, 短信, 推送)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1892" y="1010" width="232" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-86" value="报表微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-86" value="报表微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1699" y="1037" width="171" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-87" value="管理与配置微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1440" y="990" width="240" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-88" value="Llama 3.3 70B 服务 API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-88" value="Llama 3.3 70B 服务 API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2370" y="1820" width="570" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-89" value="规则引擎适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-89" value="规则引擎适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2710" y="1940" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-90" value="优化算法适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-90" value="优化算法适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2385" y="1950" width="225" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1371" width="270" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-92" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-92" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2734" y="1371" width="194" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-93" value="消息队列 (RabbitMQ/Kafka)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-93" value="消息队列 (RabbitMQ/Kafka)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1371" width="256" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-94" value="数据湖/数据仓库 (可选, 用于高级分析)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-94" value="数据湖/数据仓库 (可选, 用于高级分析)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1510" y="1520" width="547" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-95" value="日志管理 (ELK 技术栈)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-95" value="日志管理 (ELK 技术栈)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1380" width="312" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-96" value="集成适配器 (REST, SOAP, MQ)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-96" value="集成适配器 (REST, SOAP, MQ)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1795" width="384" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-97" value="ETL 工具 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-97" value="ETL 工具 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1910" y="1804" width="259" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-98" value="A-CDM 系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-98" value="A-CDM 系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1940" y="2020" width="161" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-99" value="航班信息系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-99" value="航班信息系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1653" y="2020" width="237" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-100" value="人力资源系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-100" value="人力资源系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2020" width="183" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=28;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-76" target="fqxcdEW5O6G4-0hoVD9z-78">
