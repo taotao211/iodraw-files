@@ -11,9 +11,9 @@
           <mxGeometry x="80" y="1087" width="2124" height="137" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-3" value="智能引擎层 (Intelligence Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="495" y="816" width="1115" height="222" as="geometry" />
+          <mxGeometry x="290" y="816" width="1750" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-4" value="服务层 (Service Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-4" value="服务层 (Service Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="664" width="2344" height="126" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-5" value="应用层 (Application Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
