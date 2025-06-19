@@ -17,7 +17,7 @@
           <mxGeometry x="744" y="494" width="1696" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-5" value="应用层 (Application Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="342" width="2020" height="102" as="geometry" />
+          <mxGeometry x="96" y="342" width="2020" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="511" y="152" width="975" height="120" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry x="1201" y="186" width="250" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-15" value="用户交互模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1849" y="367" width="156" height="52" as="geometry" />
+          <mxGeometry x="1925" y="367" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-16" value="实时调度与监控模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="930" y="367" width="204" height="52" as="geometry" />
+          <mxGeometry x="1006" y="367" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-17" value="考勤与工时管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1354" y="367" width="204" height="52" as="geometry" />
+          <mxGeometry x="1430" y="367" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-18" value="报表与分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="367" width="172" height="52" as="geometry" />
+          <mxGeometry x="131" y="367" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-19" value="基础数据管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1749" y="519" width="188" height="52" as="geometry" />
