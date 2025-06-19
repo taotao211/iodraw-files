@@ -106,20 +106,20 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-33" value="Llama模型及向量数据库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="170" y="1148" width="295" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-34" value="服务器集群/云计算平台" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-34" value="服务器集群/云计算平台" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="220" y="1349" width="299" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-35" value="网络" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="759" y="1340" width="246" height="52" as="geometry" />
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-35" value="网络" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1340" width="265" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-36" value="安全防护" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-36" value="安全防护" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1105" y="1340" width="124" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-37" value="消息队列 (Kafka/RabbitMQ)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-37" value="消息队列 (Kafka/RabbitMQ)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1279" y="1340" width="306" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-38" value="缓存服务 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1635" y="1340" width="314" height="52" as="geometry" />
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-38" value="缓存服务 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1635" y="1340" width="355" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
           <mxGeometry relative="1" as="geometry" />
