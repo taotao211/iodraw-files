@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="512" width="2124" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="804" y="342" width="1056" height="120" as="geometry" />
+          <mxGeometry x="710" y="342" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-7" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="700" y="160" width="1160" height="132" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="1205" y="367" width="199" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-13" value="移动APP (Staff)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="839" y="376" width="170" height="52" as="geometry" />
+          <mxGeometry x="800" y="376" width="191" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-14" value="API接口 (External Systems)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1494" y="376" width="250" height="52" as="geometry" />
