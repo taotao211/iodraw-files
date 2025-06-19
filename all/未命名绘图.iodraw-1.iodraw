@@ -65,16 +65,16 @@
           <mxGeometry x="2512" y="1796" width="222" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-89" value="规则引擎适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="1940" width="172" height="52" as="geometry" />
+          <mxGeometry x="2710" y="1940" width="172" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-90" value="优化算法适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2385" y="1950" width="172" height="52" as="geometry" />
+          <mxGeometry x="2385" y="1950" width="225" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1371" width="270" height="89" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-92" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2734" y="1371" width="194" height="52" as="geometry" />
+          <mxGeometry x="2734" y="1371" width="194" height="99" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-93" value="消息队列 (RabbitMQ/Kafka)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1371" width="256" height="99" as="geometry" />
