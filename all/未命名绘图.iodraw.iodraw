@@ -29,7 +29,7 @@
           <mxGeometry x="1390" y="105" width="800" height="349" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-9" value="Internet/Intranet" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2597" y="334" width="247" height="145" as="geometry" />
+          <mxGeometry x="2597" y="334" width="393" height="145" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-10" value="负载均衡器 (Nginx/HAProxy)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2632" y="359" width="177" height="70" as="geometry" />
