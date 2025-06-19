@@ -25,8 +25,8 @@
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-7" value="WN1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1070" y="554" width="975" height="433" as="geometry" />
         </mxCell>
-        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-8" value="Master Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="105" width="650" height="349" as="geometry" />
+        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-8" value="Master Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="105" width="800" height="349" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-9" value="Internet/Intranet" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2597" y="334" width="247" height="145" as="geometry" />
