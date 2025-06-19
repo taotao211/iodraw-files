@@ -44,13 +44,13 @@
           <mxGeometry x="1685" y="368" width="255" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-14" value="前端服务Pod 1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1687" y="579" width="163" height="52" as="geometry" />
+          <mxGeometry x="1510" y="579" width="340" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-15" value="后端API网关Pod 1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="808" width="271" height="52" as="geometry" />
+          <mxGeometry x="1539" y="706" width="271" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-16" value="应用服务Pod 1 (排班)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="910" width="324" height="52" as="geometry" />
+          <mxGeometry x="1380" y="850" width="324" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-17" value="前端服务Pod 2" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2174" y="706" width="236" height="84" as="geometry" />
