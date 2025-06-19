@@ -71,13 +71,13 @@
           <mxGeometry x="2385" y="1950" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="1371" width="205" height="70" as="geometry" />
+          <mxGeometry x="2136" y="1371" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-92" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2771" y="1254" width="194" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-93" value="消息队列 (RabbitMQ/Kafka)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2454" y="1254" width="256" height="52" as="geometry" />
+          <mxGeometry x="2420" y="1371" width="256" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-94" value="数据湖/数据仓库 (可选, 用于高级分析)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1563" y="1559" width="229" height="70" as="geometry" />
@@ -366,7 +366,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2308" y="1317" />
-              <mxPoint x="2270" y="1410" />
             </Array>
           </mxGeometry>
         </mxCell>
