@@ -16,10 +16,10 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1762" width="680" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-73" value="应用层 (后端)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-73" value="应用层 (后端)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1412" y="884" width="1858" height="239" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-74" value="表示层 (前端)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-74" value="表示层 (前端)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1960" y="612" width="690" height="222" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-75" value="客户端层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
@@ -32,7 +32,7 @@
           <mxGeometry x="2326" y="485" width="264" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-78" value="前端框架 (例如 React/Vue/Angular)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="637" width="470" height="70" as="geometry" />
+          <mxGeometry x="2090" y="660" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-79" value="API 客户端库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2175" y="760" width="275" height="52" as="geometry" />
