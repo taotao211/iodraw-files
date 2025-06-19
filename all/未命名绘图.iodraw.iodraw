@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-1" value="外部依赖/服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1686" width="1487" height="145" as="geometry" />
+          <mxGeometry x="1020" y="1686" width="1560" height="145" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-2" value="Kubernetes集群 (K8s Cluster)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1030" y="80" width="1547" height="1448" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="1994" y="1736" width="218" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-32" value="日志系统 (ELK Stack)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2262" y="1745" width="210" height="52" as="geometry" />
+          <mxGeometry x="2270" y="1745" width="287" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-33" value="Worker_Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2151" y="1550" width="163" height="52" as="geometry" />
