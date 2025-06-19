@@ -13,7 +13,7 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1414" y="1220" width="1586" height="434" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1762" width="680" height="298" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-73" value="应用层 (后端)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="1440" y="990" width="240" height="99" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-88" value="Llama 3.3 70B 服务 API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2370" y="1796" width="570" height="52" as="geometry" />
+          <mxGeometry x="2370" y="1820" width="570" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-89" value="规则引擎适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2710" y="1940" width="220" height="90" as="geometry" />
