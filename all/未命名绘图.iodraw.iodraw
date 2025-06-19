@@ -22,8 +22,8 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="804" y="342" width="975" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-7" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="700" y="190" width="1160" height="102" as="geometry" />
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-7" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="1160" height="132" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-8" value="管理员" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1250" y="215" width="108" height="52" as="geometry" />
