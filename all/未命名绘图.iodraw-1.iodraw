@@ -8,13 +8,13 @@
           <mxGeometry x="1412" y="1940" width="625" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-70" value="集成层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1449" y="1770" width="755" height="120" as="geometry" />
+          <mxGeometry x="1410" y="1770" width="794" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1492" y="1173" width="1514" height="434" as="geometry" />
+          <mxGeometry x="1420" y="1173" width="1586" height="434" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3026" y="1173" width="489" height="264" as="geometry" />
+          <mxGeometry x="2370" y="1762" width="489" height="264" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-73" value="应用层 (后端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1412" y="884" width="2219" height="239" as="geometry" />
@@ -62,13 +62,13 @@
           <mxGeometry x="1461" y="1037" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-88" value="Llama 3.3 70B 服务 API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3168" y="1207" width="222" height="52" as="geometry" />
+          <mxGeometry x="2512" y="1796" width="222" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-89" value="规则引擎适配器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3295" y="1351" width="172" height="52" as="geometry" />
+          <mxGeometry x="2639" y="1940" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-90" value="优化算法适配器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3073" y="1351" width="172" height="52" as="geometry" />
+          <mxGeometry x="2417" y="1940" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2205" y="1198" width="205" height="70" as="geometry" />
@@ -202,14 +202,14 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-115" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-88" target="fqxcdEW5O6G4-0hoVD9z-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3381" y="1292" />
+              <mxPoint x="2725" y="1881" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-88" target="fqxcdEW5O6G4-0hoVD9z-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3159" y="1292" />
+              <mxPoint x="2503" y="1881" />
             </Array>
           </mxGeometry>
         </mxCell>
