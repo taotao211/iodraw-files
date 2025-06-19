@@ -83,13 +83,13 @@
           <mxGeometry x="2344" y="1401" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-27" value="A-CDM系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="1745" width="138" height="52" as="geometry" />
+          <mxGeometry x="1040" y="1745" width="232" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-28" value="HR系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1352" y="1745" width="111" height="52" as="geometry" />
+          <mxGeometry x="1320" y="1745" width="143" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-29" value="航班信息系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1513" y="1745" width="156" height="52" as="geometry" />
+          <mxGeometry x="1490" y="1745" width="197" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-30" value="对象存储 (MinIO/Ceph)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1719" y="1745" width="225" height="52" as="geometry" />
