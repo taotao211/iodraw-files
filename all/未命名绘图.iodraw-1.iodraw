@@ -23,7 +23,7 @@
           <mxGeometry x="1970" y="612" width="680" height="222" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-75" value="客户端层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2101" y="460" width="433" height="102" as="geometry" />
+          <mxGeometry x="1960" y="460" width="750" height="102" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-76" value="网页浏览器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2136" y="485" width="140" height="52" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="2326" y="485" width="173" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-78" value="前端框架 (例如 React/Vue/Angular)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="637" width="308" height="70" as="geometry" />
+          <mxGeometry x="2100" y="637" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-79" value="API 客户端库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2175" y="760" width="275" height="52" as="geometry" />
