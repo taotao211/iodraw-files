@@ -47,13 +47,13 @@
           <mxGeometry x="2770" y="1037" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-83" value="调度微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2499" y="1037" width="140" height="52" as="geometry" />
+          <mxGeometry x="2450" y="1037" width="189" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-84" value="预测微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2239.5" y="1037" width="140" height="52" as="geometry" />
+          <mxGeometry x="2190" y="1037" width="189.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-85" value="通知微服务 (邮件, 短信, 推送)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1892" y="1028" width="232" height="70" as="geometry" />
+          <mxGeometry x="1892" y="1010" width="232" height="88" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-86" value="报表微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1699" y="1037" width="171" height="52" as="geometry" />
