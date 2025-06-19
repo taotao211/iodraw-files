@@ -34,7 +34,7 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-9" value="班组长/调度员" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="964" y="185" width="204" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-10" value="一线员工" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#3366CC;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-10" value="一线员工" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="728" y="185" width="186" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-11" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.53;entryY=-0.01;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-15" target="wM_HvRQ-lPCI0I0e9W3e-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0;entryY=0.26;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-16" target="wM_HvRQ-lPCI0I0e9W3e-21">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-49" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0;entryY=0.26;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-16" target="wM_HvRQ-lPCI0I0e9W3e-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.17;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-16" target="wM_HvRQ-lPCI0I0e9W3e-22">
