@@ -19,7 +19,7 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-5" value="应用层 (Application Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="80" y="512" width="2124" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;align=left;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="710" y="342" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-7" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
