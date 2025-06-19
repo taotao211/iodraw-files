@@ -8,13 +8,13 @@
           <mxGeometry x="1412" y="1940" width="625" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-70" value="集成层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1770" width="794" height="120" as="geometry" />
+          <mxGeometry x="1410" y="1730" width="794" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1173" width="1586" height="434" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2370" y="1762" width="489" height="264" as="geometry" />
+          <mxGeometry x="2320" y="1762" width="680" height="298" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-73" value="应用层 (后端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1412" y="884" width="2219" height="239" as="geometry" />
