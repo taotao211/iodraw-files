@@ -14,7 +14,7 @@
           <mxGeometry x="495" y="816" width="1115" height="222" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-4" value="服务层 (Service Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="80" y="664" width="2344" height="102" as="geometry" />
+          <mxGeometry x="80" y="664" width="2344" height="126" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-5" value="应用层 (Application Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="2124" height="124" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="115" y="537" width="255" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-19" value="基础数据管理服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1733" y="689" width="188" height="52" as="geometry" />
+          <mxGeometry x="1733" y="689" width="247" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-20" value="排班规则服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="770" y="689" width="332" height="52" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="1380" y="689" width="243" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-22" value="通讯与通知服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2114" y="689" width="172" height="52" as="geometry" />
+          <mxGeometry x="2114" y="689" width="206" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-23" value="系统管理服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="232" y="689" width="263" height="52" as="geometry" />
