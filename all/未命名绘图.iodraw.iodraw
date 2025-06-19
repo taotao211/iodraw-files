@@ -50,13 +50,13 @@
           <mxGeometry x="1494" y="376" width="336" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-15" value="用户交互模块" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1909" y="537" width="175" height="52" as="geometry" />
+          <mxGeometry x="1840" y="537" width="244" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-16" value="实时调度与监控模块" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="940" y="537" width="254" height="52" as="geometry" />
+          <mxGeometry x="737" y="520" width="254" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-17" value="考勤与工时管理模块" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1414" y="537" width="204" height="52" as="geometry" />
+          <mxGeometry x="1414" y="537" width="296" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-18" value="报表与分析模块" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="115" y="537" width="255" height="52" as="geometry" />
