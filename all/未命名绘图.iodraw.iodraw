@@ -65,13 +65,13 @@
           <mxGeometry x="2202" y="1062" width="187" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-21" value="Llama 3.3推理服务Pod 1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1505" y="1070" width="231" height="52" as="geometry" />
+          <mxGeometry x="1470" y="1070" width="330" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-22" value="Llama 3.3微调训练服务Pod (按需)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1062" width="285" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-23" value="缓存服务Pod 1 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1786" y="1070" width="217" height="52" as="geometry" />
+          <mxGeometry x="1786" y="1070" width="244" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-24" value="数据库主节点Pod (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1903" y="1300" width="329" height="70" as="geometry" />
