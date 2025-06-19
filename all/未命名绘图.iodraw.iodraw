@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-1" value="基础设施层 (Infrastructure Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1104" width="2851" height="102" as="geometry" />
+          <mxGeometry x="100" y="1104" width="2851" height="146" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-2" value="数据层 (Data Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="917" width="2124" height="137" as="geometry" />
@@ -104,19 +104,19 @@
           <mxGeometry x="131" y="960" width="229" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-34" value="服务器集群/云计算平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1140" width="228" height="52" as="geometry" />
+          <mxGeometry x="227" y="1160" width="228" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-35" value="网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2116" y="1129" width="92" height="52" as="geometry" />
+          <mxGeometry x="1020" y="1151" width="92" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-36" value="安全防护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2258" y="1129" width="124" height="52" as="geometry" />
+          <mxGeometry x="1162" y="1151" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-37" value="消息队列 (Kafka/RabbitMQ)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2432" y="1129" width="256" height="52" as="geometry" />
+          <mxGeometry x="1336" y="1151" width="256" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-38" value="缓存服务 (Redis)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2738" y="1129" width="178" height="52" as="geometry" />
+          <mxGeometry x="1642" y="1151" width="178" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
           <mxGeometry relative="1" as="geometry">
