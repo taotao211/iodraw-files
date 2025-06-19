@@ -92,13 +92,13 @@
           <mxGeometry x="1490" y="1745" width="197" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-30" value="对象存储 (MinIO/Ceph)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1719" y="1745" width="241" height="52" as="geometry" />
+          <mxGeometry x="1721" y="1733.5" width="281" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-31" value="监控系统 (Prometheus/Grafana)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1994" y="1736" width="276" height="104" as="geometry" />
+          <mxGeometry x="2038" y="1706.5" width="276" height="104" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-32" value="日志系统 (ELK Stack)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="1745" width="287" height="52" as="geometry" />
+          <mxGeometry x="2370" y="1745" width="287" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-33" value="Worker_Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2151" y="1550" width="163" height="52" as="geometry" />
