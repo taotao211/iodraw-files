@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-1" value="基础设施层 (Infrastructure Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="151" y="1104" width="2800" height="102" as="geometry" />
+          <mxGeometry x="100" y="1104" width="2851" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-2" value="数据层 (Data Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="917" width="2124" height="137" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="131" y="960" width="229" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-34" value="服务器集群/云计算平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="882" y="1129" width="228" height="52" as="geometry" />
+          <mxGeometry x="250" y="1140" width="228" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-35" value="网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2116" y="1129" width="92" height="52" as="geometry" />
