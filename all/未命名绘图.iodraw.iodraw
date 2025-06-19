@@ -56,10 +56,10 @@
           <mxGeometry x="2174" y="706" width="236" height="84" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-18" value="后端API网关Pod 2" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2249" y="808" width="185" height="52" as="geometry" />
+          <mxGeometry x="2174" y="830" width="248" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-19" value="应用服务Pod 2 (调度)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2236" y="910" width="212" height="52" as="geometry" />
+          <mxGeometry x="2189.5" y="930" width="212" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-20" value="消息队列Pod 1 (Kafka/RabbitMQ)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2202" y="1062" width="187" height="70" as="geometry" />
