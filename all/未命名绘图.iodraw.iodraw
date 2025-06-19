@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-1" value="外部依赖/服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-1" value="外部依赖/服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1020" y="1686" width="1560" height="145" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-2" value="Kubernetes集群 (K8s Cluster)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
@@ -92,7 +92,7 @@
           <mxGeometry x="1490" y="1745" width="197" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-30" value="对象存储 (MinIO/Ceph)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1719" y="1745" width="225" height="52" as="geometry" />
+          <mxGeometry x="1719" y="1745" width="241" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-31" value="监控系统 (Prometheus/Grafana)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1994" y="1736" width="218" height="70" as="geometry" />
