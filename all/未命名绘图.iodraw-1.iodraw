@@ -7,10 +7,10 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-69" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1412" y="1940" width="728" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-70" value="集成层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-70" value="集成层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;verticalAlign=top;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1730" width="794" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=29;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1414" y="1220" width="1586" height="434" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
