@@ -17,7 +17,7 @@
           <mxGeometry x="1535" y="1270" width="1001" height="208" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-5" value="WN3" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1037" width="868" height="120" as="geometry" />
+          <mxGeometry x="1120" y="1037" width="918" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-6" value="WN2" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2085" y="681" width="412" height="476" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1505" y="1070" width="231" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-22" value="Llama 3.3微调训练服务Pod (按需)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="1062" width="250" height="70" as="geometry" />
+          <mxGeometry x="1170" y="1062" width="285" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-23" value="缓存服务Pod 1 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1786" y="1070" width="217" height="52" as="geometry" />
