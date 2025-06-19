@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-1" value="外部依赖/服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="1686" width="1378" height="145" as="geometry" />
+          <mxGeometry x="1020" y="1686" width="1487" height="145" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-2" value="Kubernetes集群 (K8s Cluster)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1030" y="80" width="1547" height="1448" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="1685" y="232" width="255" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-13" value="K8s Master 3" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="368" width="147" height="52" as="geometry" />
+          <mxGeometry x="1685" y="368" width="255" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-14" value="前端服务Pod 1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1687" y="579" width="163" height="52" as="geometry" />
