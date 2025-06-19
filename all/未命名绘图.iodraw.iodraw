@@ -65,10 +65,10 @@
           <mxGeometry x="1733" y="689" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-20" value="排班规则服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="689" width="332" height="52" as="geometry" />
+          <mxGeometry x="770" y="689" width="332" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-21" value="任务管理服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="689" width="156" height="52" as="geometry" />
+          <mxGeometry x="1380" y="689" width="243" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-22" value="通讯与通知服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="2114" y="689" width="172" height="52" as="geometry" />
