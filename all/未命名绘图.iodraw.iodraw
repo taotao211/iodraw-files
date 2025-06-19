@@ -38,13 +38,13 @@
           <mxGeometry x="1557" y="215" width="203" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-12" value="Web门户 (Admin/Supervisor)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="367" width="199" height="70" as="geometry" />
+          <mxGeometry x="1140" y="367" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-13" value="移动APP (Staff)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="800" y="376" width="191" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-14" value="API接口 (External Systems)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1494" y="376" width="250" height="52" as="geometry" />
+          <mxGeometry x="1494" y="376" width="336" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-15" value="用户交互模块" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1909" y="537" width="175" height="52" as="geometry" />
