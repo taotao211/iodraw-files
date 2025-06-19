@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;align=left;fontStyle=1;verticalAlign=top;fontColor=#0099CC;" vertex="1" parent="1">
-          <mxGeometry x="638" y="300" width="1150" height="132" as="geometry" />
+          <mxGeometry x="630" y="300" width="1158" height="132" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-7" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;verticalAlign=top;fontStyle=1;fontColor=#0099CC;" vertex="1" parent="1">
           <mxGeometry x="628" y="130" width="1160" height="132" as="geometry" />
