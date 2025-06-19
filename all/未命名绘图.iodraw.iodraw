@@ -95,7 +95,7 @@
           <mxGeometry x="1590" y="1120.5" width="469" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-30" value="NoSQL数据库 (MongoDB - 可选,用于日志或非结构化数据)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="1112" width="357" height="87" as="geometry" />
+          <mxGeometry x="1140" y="1112" width="400" height="87" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-31" value="数据仓库 (用于分析)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="780" y="1129.5" width="281" height="52" as="geometry" />
