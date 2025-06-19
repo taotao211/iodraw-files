@@ -13,13 +13,13 @@
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-3" value="Worker Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1050" y="529" width="1507" height="974" as="geometry" />
         </mxCell>
-        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-4" value="WN4" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-4" value="WN4" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1535" y="1231" width="1001" height="247" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-5" value="WN3" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1037" width="868" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-6" value="WN2" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="bQ2RtlA_M0aYeB1W2VOx-6" value="WN2" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2085" y="681" width="412" height="476" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-7" value="WN1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
