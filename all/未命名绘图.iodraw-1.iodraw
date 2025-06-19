@@ -58,7 +58,7 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-86" value="报表微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1699" y="1037" width="171" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="fqxcdEW5O6G4-0hoVD9z-87" value="管理与配置微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="fqxcdEW5O6G4-0hoVD9z-87" value="管理与配置微服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;fontColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="1440" y="990" width="240" height="99" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-88" value="Llama 3.3 70B 服务 API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
