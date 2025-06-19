@@ -86,7 +86,7 @@
           <mxGeometry x="1040" y="1745" width="232" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-28" value="HR系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1745" width="143" height="52" as="geometry" />
+          <mxGeometry x="1310" y="1745" width="143" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-29" value="航班信息系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1745" width="197" height="52" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="2370" y="1745" width="287" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-33" value="Worker_Nodes" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="2151" y="1550" width="163" height="52" as="geometry" />
+          <mxGeometry x="2151" y="1550" width="239" height="52" as="geometry" />
         </mxCell>
         <mxCell id="bQ2RtlA_M0aYeB1W2VOx-34" value="Master" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="2612" y="130" width="106" height="52" as="geometry" />
