@@ -121,39 +121,23 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-38" value="缓存服务 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1626" y="1321" width="314" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-9" target="wM_HvRQ-lPCI0I0e9W3e-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1046" y="312" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-9" target="wM_HvRQ-lPCI0I0e9W3e-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-10" target="wM_HvRQ-lPCI0I0e9W3e-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-10" target="wM_HvRQ-lPCI0I0e9W3e-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-11" target="wM_HvRQ-lPCI0I0e9W3e-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-11" target="wM_HvRQ-lPCI0I0e9W3e-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-12" target="wM_HvRQ-lPCI0I0e9W3e-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-12" target="wM_HvRQ-lPCI0I0e9W3e-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.29;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-13" target="wM_HvRQ-lPCI0I0e9W3e-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1531" y="512" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.29;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-13" target="wM_HvRQ-lPCI0I0e9W3e-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.53;entryY=-0.01;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-14" target="wM_HvRQ-lPCI0I0e9W3e-19">
           <mxGeometry relative="1" as="geometry" />
