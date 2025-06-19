@@ -1,14 +1,14 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="jWc-6YqxKGPFFBfQziaT">
-    <mxGraphModel dx="2868" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2041" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-69" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1487" width="625" height="120" as="geometry" />
+          <mxGeometry x="1412" y="1940" width="625" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-70" value="集成层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="1720" width="755" height="120" as="geometry" />
+          <mxGeometry x="1449" y="1770" width="755" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1492" y="1173" width="1514" height="434" as="geometry" />
@@ -86,19 +86,19 @@
           <mxGeometry x="1935" y="1207" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-96" value="集成适配器 (REST, SOAP, MQ)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="898" y="1342" width="234" height="70" as="geometry" />
+          <mxGeometry x="1630" y="1795" width="234" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-97" value="ETL 工具 (可选)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="1351" width="171" height="52" as="geometry" />
+          <mxGeometry x="1998" y="1804" width="171" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-98" value="A-CDM 系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="1521" width="143" height="52" as="geometry" />
+          <mxGeometry x="1859" y="1974" width="143" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-99" value="航班信息系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="921" y="1521" width="156" height="52" as="geometry" />
+          <mxGeometry x="1653" y="1974" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-100" value="人力资源系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1521" width="156" height="52" as="geometry" />
+          <mxGeometry x="1447" y="1974" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-76" target="fqxcdEW5O6G4-0hoVD9z-78">
           <mxGeometry relative="1" as="geometry">
@@ -344,21 +344,21 @@
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-132" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-96" target="fqxcdEW5O6G4-0hoVD9z-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1199" y="1437" />
+              <mxPoint x="1931" y="1890" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-96" target="fqxcdEW5O6G4-0hoVD9z-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="999" y="1437" />
+              <mxPoint x="1731" y="1890" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fqxcdEW5O6G4-0hoVD9z-96" target="fqxcdEW5O6G4-0hoVD9z-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="793" y="1437" />
+              <mxPoint x="1525" y="1890" />
             </Array>
           </mxGeometry>
         </mxCell>
