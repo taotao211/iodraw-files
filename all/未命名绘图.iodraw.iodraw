@@ -68,7 +68,7 @@
           <mxGeometry x="1543" y="519" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-22" value="通讯与通知服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2474" y="519" width="172" height="52" as="geometry" />
+          <mxGeometry x="2130" y="519" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-23" value="系统管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="803" y="519" width="156" height="52" as="geometry" />
