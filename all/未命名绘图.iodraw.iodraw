@@ -110,16 +110,16 @@
           <mxGeometry x="211" y="1330" width="299" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-35" value="网络" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1321" width="246" height="52" as="geometry" />
+          <mxGeometry x="750" y="1321" width="246" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-36" value="安全防护" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1146" y="1321" width="124" height="52" as="geometry" />
+          <mxGeometry x="1096" y="1321" width="124" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-37" value="消息队列 (Kafka/RabbitMQ)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1321" width="256" height="52" as="geometry" />
+          <mxGeometry x="1270" y="1321" width="306" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-38" value="缓存服务 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1626" y="1321" width="178" height="52" as="geometry" />
+          <mxGeometry x="1626" y="1321" width="314" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
           <mxGeometry relative="1" as="geometry">
