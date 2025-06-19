@@ -11,7 +11,7 @@
           <mxGeometry x="1410" y="1730" width="794" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-71" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1207" width="1586" height="434" as="geometry" />
+          <mxGeometry x="1414" y="1220" width="1586" height="434" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-72" value="AI 引擎层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1762" width="680" height="298" as="geometry" />
@@ -71,19 +71,19 @@
           <mxGeometry x="2385" y="1950" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2205" y="1198" width="205" height="70" as="geometry" />
+          <mxGeometry x="2199" y="1245" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-92" value="缓存数据库 (Redis)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2777" y="1207" width="194" height="52" as="geometry" />
+          <mxGeometry x="2771" y="1254" width="194" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-93" value="消息队列 (RabbitMQ/Kafka)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="1207" width="256" height="52" as="geometry" />
+          <mxGeometry x="2454" y="1254" width="256" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-94" value="数据湖/数据仓库 (可选, 用于高级分析)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1569" y="1512" width="229" height="70" as="geometry" />
+          <mxGeometry x="1563" y="1559" width="229" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-95" value="日志管理 (ELK 技术栈)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1935" y="1207" width="220" height="52" as="geometry" />
+          <mxGeometry x="1929" y="1254" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-96" value="集成适配器 (REST, SOAP, MQ)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1795" width="234" height="70" as="geometry" />
