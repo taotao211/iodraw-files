@@ -17,7 +17,7 @@
           <mxGeometry x="744" y="494" width="1696" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-5" value="应用层 (Application Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="367" width="2020" height="102" as="geometry" />
+          <mxGeometry x="20" y="342" width="2020" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="511" y="152" width="975" height="120" as="geometry" />
