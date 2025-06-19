@@ -23,31 +23,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="330" width="1150" height="132" as="geometry" />
+          <mxGeometry x="638" y="300" width="1150" height="132" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-7" value="用户层 (User Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="700" y="160" width="1160" height="132" as="geometry" />
+          <mxGeometry x="628" y="130" width="1160" height="132" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-8" value="管理员" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="215" width="108" height="52" as="geometry" />
+          <mxGeometry x="1248" y="185" width="108" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-9" value="班组长/调度员" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="215" width="204" height="52" as="geometry" />
+          <mxGeometry x="964" y="185" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-10" value="一线员工" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="800" y="215" width="186" height="52" as="geometry" />
+          <mxGeometry x="728" y="185" width="186" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-11" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1557" y="215" width="203" height="52" as="geometry" />
+          <mxGeometry x="1485" y="185" width="203" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-12" value="Web门户 (Admin/Supervisor)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="367" width="280" height="70" as="geometry" />
+          <mxGeometry x="1068" y="337" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-13" value="移动APP (Staff)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="800" y="376" width="191" height="52" as="geometry" />
+          <mxGeometry x="728" y="346" width="191" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-14" value="API接口 (External Systems)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1494" y="376" width="336" height="52" as="geometry" />
+          <mxGeometry x="1422" y="346" width="336" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-15" value="用户交互模块" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1840" y="537" width="244" height="52" as="geometry" />
@@ -129,7 +129,7 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;fontFamily=Times New Roman;fontSize=25;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-9" target="wM_HvRQ-lPCI0I0e9W3e-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1118" y="342" />
+              <mxPoint x="1046" y="312" />
             </Array>
           </mxGeometry>
         </mxCell>
