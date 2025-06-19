@@ -62,7 +62,7 @@
           <mxGeometry x="1461" y="1037" width="188" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-88" value="Llama 3.3 70B 服务 API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="2512" y="1796" width="222" height="52" as="geometry" />
+          <mxGeometry x="2370" y="1796" width="570" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-89" value="规则引擎适配器" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2710" y="1940" width="220" height="90" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="2420" y="1371" width="256" height="99" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-94" value="数据湖/数据仓库 (可选, 用于高级分析)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1563" y="1559" width="229" height="70" as="geometry" />
+          <mxGeometry x="1563" y="1559" width="547" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-95" value="日志管理 (ELK 技术栈)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1380" width="312" height="52" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="1480" y="1795" width="384" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-97" value="ETL 工具 (可选)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1998" y="1804" width="171" height="52" as="geometry" />
+          <mxGeometry x="1910" y="1804" width="259" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-98" value="A-CDM 系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1940" y="2020" width="161" height="52" as="geometry" />
