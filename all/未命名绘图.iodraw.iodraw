@@ -62,19 +62,19 @@
           <mxGeometry x="115" y="537" width="255" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-19" value="基础数据管理服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1733" y="689" width="247" height="52" as="geometry" />
+          <mxGeometry x="1731" y="710" width="247" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-20" value="排班规则服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="770" y="689" width="332" height="52" as="geometry" />
+          <mxGeometry x="768" y="710" width="332" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-21" value="任务管理服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="689" width="243" height="52" as="geometry" />
+          <mxGeometry x="1378" y="710" width="243" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-22" value="通讯与通知服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2114" y="689" width="206" height="52" as="geometry" />
+          <mxGeometry x="2112" y="710" width="206" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-23" value="系统管理服务" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="232" y="689" width="263" height="52" as="geometry" />
+          <mxGeometry x="230" y="710" width="263" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-24" value="Llama 3.3 70B核心引擎" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="889" y="841" width="222" height="52" as="geometry" />
