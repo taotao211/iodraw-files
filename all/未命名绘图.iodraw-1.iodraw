@@ -41,10 +41,10 @@
           <mxGeometry x="2182" y="909" width="256" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-81" value="认证与授权服务 (OAuth2/JWT)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3404" y="1028" width="172" height="70" as="geometry" />
+          <mxGeometry x="3220" y="1037" width="172" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-82" value="排班微服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3214" y="1037" width="140" height="52" as="geometry" />
+          <mxGeometry x="3000" y="1037" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-83" value="调度微服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2687" y="1037" width="140" height="52" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="2710" y="1940" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-90" value="优化算法适配器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2417" y="1940" width="172" height="52" as="geometry" />
+          <mxGeometry x="2385" y="1950" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-91" value="主数据库 (PostgreSQL/MySQL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2205" y="1198" width="205" height="70" as="geometry" />
