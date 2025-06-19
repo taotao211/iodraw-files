@@ -17,7 +17,7 @@
           <mxGeometry x="2320" y="1762" width="680" height="298" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-73" value="应用层 (后端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="884" width="2038" height="239" as="geometry" />
+          <mxGeometry x="1412" y="884" width="1858" height="239" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-74" value="表示层 (前端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2120" y="612" width="370" height="222" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="2182" y="909" width="256" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-81" value="认证与授权服务 (OAuth2/JWT)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3220" y="1037" width="172" height="70" as="geometry" />
+          <mxGeometry x="3020" y="1028" width="172" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fqxcdEW5O6G4-0hoVD9z-82" value="排班微服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2770" y="1037" width="140" height="52" as="geometry" />
