@@ -19,7 +19,7 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-5" value="应用层 (Application Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=30;fontStyle=1;align=left;verticalAlign=top;fontColor=#0099CC;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="2124" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-6" target="wM_HvRQ-lPCI0I0e9W3e-8">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-82" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-6" target="wM_HvRQ-lPCI0I0e9W3e-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-6" value="表示层 (Presentation Tier)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;align=left;fontStyle=1;verticalAlign=top;fontColor=#0099CC;" vertex="1" parent="1">
@@ -121,13 +121,13 @@
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-38" value="缓存服务 (Redis)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1340" width="355" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-39" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-8" target="wM_HvRQ-lPCI0I0e9W3e-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-9" target="wM_HvRQ-lPCI0I0e9W3e-12">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-40" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-9" target="wM_HvRQ-lPCI0I0e9W3e-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-10" target="wM_HvRQ-lPCI0I0e9W3e-13">
+        <mxCell id="wM_HvRQ-lPCI0I0e9W3e-41" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-10" target="wM_HvRQ-lPCI0I0e9W3e-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wM_HvRQ-lPCI0I0e9W3e-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=25;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wM_HvRQ-lPCI0I0e9W3e-11" target="wM_HvRQ-lPCI0I0e9W3e-14">
