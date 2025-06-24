@@ -7,7 +7,7 @@
         <mxCell id="gamAmjlQHnopKMVjlbqk-2" value="DataStores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="3330" width="558" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-3" value="BackendServices" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-3" value="BackendServices" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="598" y="2772" width="623" height="518" as="geometry" />
         </mxCell>
         <mxCell id="gamAmjlQHnopKMVjlbqk-4" value="用户界面 (UI) / API网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
