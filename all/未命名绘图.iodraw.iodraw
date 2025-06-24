@@ -10,7 +10,7 @@
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-3" value="ServerHost1[服务器1: 应用与Web服务]" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="20" y="132" width="726" height="443" as="geometry" />
         </mxCell>
-        <mxCell id="0jgfTBxWUw1jZU-P1PtN-4" value="用户PC (Web浏览器)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0jgfTBxWUw1jZU-P1PtN-4" value="用户PC (Web浏览器)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="249" y="30" width="208" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-5" value="Nginx (反向代理/负载均衡 - 可选)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
