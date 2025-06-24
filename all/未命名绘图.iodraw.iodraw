@@ -19,7 +19,7 @@
         <mxCell id="uN6JncC_VBFhwZjArscY-5" value="规范/文献" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-1">
           <mxGeometry x="99" y="349" width="132" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-6" value="DPK" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uN6JncC_VBFhwZjArscY-6" value="DPK" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="235" y="473" width="815" height="128" as="geometry" />
         </mxCell>
         <mxCell id="uN6JncC_VBFhwZjArscY-7" value="数据采集与预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-6">
@@ -43,7 +43,7 @@
         <mxCell id="uN6JncC_VBFhwZjArscY-13" value="文件存储系统" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="uN6JncC_VBFhwZjArscY-10">
           <mxGeometry x="72" y="297" width="111" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-14" value="KSA" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uN6JncC_VBFhwZjArscY-14" value="KSA" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="20" y="295" width="802" height="128" as="geometry" />
         </mxCell>
         <mxCell id="uN6JncC_VBFhwZjArscY-15" value="知识检索与浏览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-14">
