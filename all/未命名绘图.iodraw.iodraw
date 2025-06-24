@@ -14,7 +14,7 @@
           <mxGeometry x="249" y="30" width="208" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-5" value="Nginx (反向代理/负载均衡 - 可选)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="224" y="157" width="257" height="70" as="geometry" />
+          <mxGeometry x="224" y="157" width="256" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-6" value="Web应用服务 (Python: FastAPI/Django)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="242" y="277" width="222" height="70" as="geometry" />
