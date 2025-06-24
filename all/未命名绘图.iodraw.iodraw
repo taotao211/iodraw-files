@@ -35,10 +35,10 @@
           <mxGeometry x="358" y="498" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-12" value="Neo4j 服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="358" y="650" width="139" height="52" as="geometry" />
+          <mxGeometry x="358" y="663" width="139" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-13" value="MongoDB 服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="547" y="650" width="161" height="52" as="geometry" />
+          <mxGeometry x="547" y="663" width="161" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-14" value="ServerHost1" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="507" y="30" width="146" height="52" as="geometry" />
