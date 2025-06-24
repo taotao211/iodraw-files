@@ -7,7 +7,7 @@
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-2" value="ServerHost2[服务器2: 数据库服务]" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="323" y="625" width="420" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="0jgfTBxWUw1jZU-P1PtN-3" value="ServerHost1[服务器1: 应用与Web服务]" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0jgfTBxWUw1jZU-P1PtN-3" value="ServerHost1[服务器1: 应用与Web服务]" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="132" width="726" height="443" as="geometry" />
         </mxCell>
         <mxCell id="0jgfTBxWUw1jZU-P1PtN-4" value="用户PC (Web浏览器)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
