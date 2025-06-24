@@ -58,7 +58,7 @@
         <mxCell id="uN6JncC_VBFhwZjArscY-18" value="API接口服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-14">
           <mxGeometry x="629" y="46" width="146" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-19" value="U" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uN6JncC_VBFhwZjArscY-19" value="U" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="302" y="20" width="239" height="225" as="geometry" />
         </mxCell>
         <mxCell id="uN6JncC_VBFhwZjArscY-20" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-19">
@@ -98,103 +98,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="652" y="626" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-27" value="DR" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="496" y="1731" width="313" height="429" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-28" value="安评报告 .doc/.pdf" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-27">
-          <mxGeometry x="65" y="43" width="199" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-29" value="GIS数据 .shp/.kml" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-27">
-          <mxGeometry x="70" y="145" width="189" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-30" value="物探资料 .csv/图片/文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-27">
-          <mxGeometry x="46" y="247" width="238" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-31" value="规范/文献" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-27">
-          <mxGeometry x="99" y="349" width="132" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-32" value="DPK" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1553" width="815" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-33" value="数据采集与预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-32">
-          <mxGeometry x="43" y="46" width="188" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-34" value="知识抽取 (实体/关系/属性)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-32">
-          <mxGeometry x="281" y="46" width="253" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-35" value="知识图谱构建与管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-32">
-          <mxGeometry x="584" y="46" width="204" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-36" value="KS" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1747" width="239" height="397" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-37" value="Neo4j 图数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="uN6JncC_VBFhwZjArscY-36">
-          <mxGeometry x="65" y="43" width="126" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-38" value="MongoDB 文档数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="uN6JncC_VBFhwZjArscY-36">
-          <mxGeometry x="46" y="168" width="164" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-39" value="文件存储系统" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="uN6JncC_VBFhwZjArscY-36">
-          <mxGeometry x="72" y="297" width="111" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-40" value="KSA" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1375" width="802" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-41" value="知识检索与浏览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-40">
-          <mxGeometry x="43" y="46" width="172" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-42" value="知识可视化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-40">
-          <mxGeometry x="265" y="46" width="140" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-43" value="关联分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-40">
-          <mxGeometry x="455" y="46" width="124" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-44" value="API接口服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-40">
-          <mxGeometry x="629" y="46" width="146" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-45" value="U" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="302" y="1100" width="239" height="225" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-46" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-45">
-          <mxGeometry x="58" y="43" width="140" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-47" value="外部应用/脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-45">
-          <mxGeometry x="46" y="145" width="164" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uN6JncC_VBFhwZjArscY-45" target="uN6JncC_VBFhwZjArscY-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="uN6JncC_VBFhwZjArscY-40" target="uN6JncC_VBFhwZjArscY-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="1528" />
-              <mxPoint x="200" y="1706" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uN6JncC_VBFhwZjArscY-40" target="uN6JncC_VBFhwZjArscY-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="642" y="1528" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="uN6JncC_VBFhwZjArscY-32" target="uN6JncC_VBFhwZjArscY-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="431" y="1706" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN6JncC_VBFhwZjArscY-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uN6JncC_VBFhwZjArscY-32" target="uN6JncC_VBFhwZjArscY-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="652" y="1706" />
             </Array>
           </mxGeometry>
         </mxCell>
