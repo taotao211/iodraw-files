@@ -29,7 +29,7 @@
           <mxGeometry x="113" y="496" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="T_oAmsvcyyDcQkL4fVQ--9" value="知识图谱构建与管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="644" y="633" width="236" height="52" as="geometry" />
+          <mxGeometry x="574" y="410" width="236" height="52" as="geometry" />
         </mxCell>
         <mxCell id="T_oAmsvcyyDcQkL4fVQ--10" value="知识检索与应用接口模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="723" y="770" width="236" height="52" as="geometry" />
