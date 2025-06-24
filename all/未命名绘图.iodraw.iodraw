@@ -25,9 +25,6 @@
         <mxCell id="gamAmjlQHnopKMVjlbqk-8" value="知识图谱构建与管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708" y="3110" width="236" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-9" value="知识检索与应用接口模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="940" y="3280" width="236" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="gamAmjlQHnopKMVjlbqk-10" value="系统管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="944" y="2797" width="156" height="52" as="geometry" />
         </mxCell>
@@ -112,13 +109,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-13">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-9" target="gamAmjlQHnopKMVjlbqk-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="806" y="3078" />
               <mxPoint x="806" y="3103" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gamAmjlQHnopKMVjlbqk-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="768" y="3053" as="sourcePoint" />
+            <mxPoint x="1163" y="3440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gamAmjlQHnopKMVjlbqk-9" value="知识检索与应用接口模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="3220" width="236" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
