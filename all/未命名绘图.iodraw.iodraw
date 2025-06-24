@@ -4,79 +4,79 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gamAmjlQHnopKMVjlbqk-2" value="DataStores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-2" value="DataStores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="620" y="3330" width="558" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-3" value="BackendServices" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-3" value="BackendServices" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="598" y="2772" width="623" height="518" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-4" value="用户界面 (UI) / API网关" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-4" value="用户界面 (UI) / API网关" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="760" y="2680" width="227" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-5" value="数据采集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-5" value="数据采集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="674" y="2797" width="220" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-6" value="知识抽取模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-6" value="知识抽取模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="649" y="2899" width="156" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-7" value="知识存储模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-7" value="知识存储模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="649" y="3001" width="156" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-8" value="知识图谱构建与管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-8" value="知识图谱构建与管理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="708" y="3110" width="236" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-10" value="系统管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-10" value="系统管理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="944" y="2797" width="156" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-11" value="Neo4j 数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-11" value="Neo4j 数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="655" y="3358" width="110" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-12" value="MongoDB 数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-12" value="MongoDB 数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="815" y="3356" width="132" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-13" value="本地文件系统/NAS" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-13" value="本地文件系统/NAS" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="997" y="3355" width="146" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-4" target="gamAmjlQHnopKMVjlbqk-5">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-4" target="gamAmjlQHnopKMVjlbqk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-15" value="" style="startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.67;entryY=0.01;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-4" target="gamAmjlQHnopKMVjlbqk-9">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-15" value="" style="startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.67;entryY=0.01;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-4" target="gamAmjlQHnopKMVjlbqk-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-16" value="" style="startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-4" target="gamAmjlQHnopKMVjlbqk-10">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-16" value="" style="startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-4" target="gamAmjlQHnopKMVjlbqk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-17" value="" style="startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-5" target="gamAmjlQHnopKMVjlbqk-6">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-17" value="" style="startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-5" target="gamAmjlQHnopKMVjlbqk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-18" value="" style="startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=1;entryY=0.35;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-5" target="gamAmjlQHnopKMVjlbqk-13">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-18" value="" style="startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=1;entryY=0.35;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-5" target="gamAmjlQHnopKMVjlbqk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-6" target="gamAmjlQHnopKMVjlbqk-7">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-6" target="gamAmjlQHnopKMVjlbqk-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-20" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-8">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-20" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.14;entryY=0.01;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-8" target="gamAmjlQHnopKMVjlbqk-9">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.14;entryY=0.01;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-8" target="gamAmjlQHnopKMVjlbqk-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-22" value="" style="startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=1;entryY=0.41;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-11">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-22" value="" style="startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=1;entryY=0.41;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-23" value="" style="startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=1;entryY=0.36;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-12">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-23" value="" style="startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=1;entryY=0.36;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-24" value="" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-9" target="gamAmjlQHnopKMVjlbqk-13">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-24" value="" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-9" target="gamAmjlQHnopKMVjlbqk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-25" value="" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-9">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-25" value="" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=1;entryY=0.32;rounded=0;edgeStyle=entityRelationEdgeStyle;fontSize=25;" edge="1" parent="1" source="gamAmjlQHnopKMVjlbqk-7" target="gamAmjlQHnopKMVjlbqk-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="768" y="3053" as="sourcePoint" />
             <mxPoint x="1163" y="3440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gamAmjlQHnopKMVjlbqk-9" value="知识检索与应用接口模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gamAmjlQHnopKMVjlbqk-9" value="知识检索与应用接口模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="810" y="3220" width="236" height="52" as="geometry" />
         </mxCell>
       </root>
