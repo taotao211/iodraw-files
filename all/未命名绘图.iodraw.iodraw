@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uN6JncC_VBFhwZjArscY-1" value="DR" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uN6JncC_VBFhwZjArscY-1" value="DR" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="496" y="651" width="313" height="429" as="geometry" />
         </mxCell>
         <mxCell id="uN6JncC_VBFhwZjArscY-2" value="安评报告 .doc/.pdf" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uN6JncC_VBFhwZjArscY-1">
