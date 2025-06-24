@@ -32,7 +32,7 @@
           <mxGeometry x="584" y="46" width="204" height="52" as="geometry" />
         </mxCell>
         <mxCell id="uN6JncC_VBFhwZjArscY-10" value="KS" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Times New Roman;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="90" y="667" width="239" height="397" as="geometry" />
+          <mxGeometry x="63" y="640" width="239" height="397" as="geometry" />
         </mxCell>
         <mxCell id="uN6JncC_VBFhwZjArscY-11" value="Neo4j 图数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=22;" vertex="1" parent="uN6JncC_VBFhwZjArscY-10">
           <mxGeometry x="65" y="43" width="126" height="75" as="geometry" />
