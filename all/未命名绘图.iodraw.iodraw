@@ -11,7 +11,7 @@
           <mxGeometry x="598" y="2772" width="623" height="585" as="geometry" />
         </mxCell>
         <mxCell id="gamAmjlQHnopKMVjlbqk-4" value="用户界面 (UI) / API网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="898" y="2670" width="227" height="52" as="geometry" />
+          <mxGeometry x="760" y="2680" width="227" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gamAmjlQHnopKMVjlbqk-5" value="数据采集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="674" y="2797" width="220" height="52" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="649" y="3001" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gamAmjlQHnopKMVjlbqk-8" value="知识图谱构建与管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="775" y="3141" width="236" height="52" as="geometry" />
+          <mxGeometry x="708" y="3110" width="236" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gamAmjlQHnopKMVjlbqk-9" value="知识检索与应用接口模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="940" y="3280" width="236" height="52" as="geometry" />
