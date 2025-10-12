@@ -16,7 +16,7 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-4" value="用户层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="147" width="434" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-5" value="人机交互模块 (HMI)&lt;/b&gt;&#xa;- 实时状态监控&#xa;- 地图任务规划&#xa;- 编队指令下达&#xa;- 视频画面监看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-5" value="人机交互模块 (HMI)&#xa;- 实时状态监控&#xa;- 地图任务规划&#xa;- 编队指令下达&#xa;- 视频画面监看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="172" width="223" height="62" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-6" value="&lt;b style=&quot;font-size:18px&quot;&gt;任务与编队规划模块&lt;/b&gt;&#xa;- 航线路径生成&#xa;- 编队队形解算&#xa;- 手动跟随指令转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
