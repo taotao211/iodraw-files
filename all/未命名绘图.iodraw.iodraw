@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-1" value="支撑层" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="353" y="-321" width="319" height="111" as="geometry" />
+          <mxGeometry x="353" y="-321" width="319" height="151" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-2" value="感知与执行层" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="404" y="22" width="867" height="380" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="692" y="-481" width="528" height="430" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-4" value="用户层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-643" width="434" height="112" as="geometry" />
+          <mxGeometry x="350" y="-660" width="434" height="150" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-5" value="人机交互模块 (HMI)&#xa;- 实时状态监控&#xa;- 地图任务规划&#xa;- 编队指令下达&#xa;- 视频画面监看" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="-630" width="240" height="90" as="geometry" />
