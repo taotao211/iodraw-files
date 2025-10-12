@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-1" value="支撑层" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-1" value="支撑层" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="353" y="-321" width="319" height="151" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-2" value="感知与执行层" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="404" y="22" width="867" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-3" value="决策与控制层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-3" value="决策与控制层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="692" y="-481" width="528" height="430" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-4" value="用户层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
