@@ -23,7 +23,7 @@
           <mxGeometry x="638" y="20" width="634" height="759" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-7" value="外部硬件接口 (Ground)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="743" y="60" width="498" height="117" as="geometry" />
+          <mxGeometry x="744" y="70" width="498" height="117" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-8" value="GCS ROS后台 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="658" y="386" width="594" height="367" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="993" y="411" width="224" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-15" value="操作员&#xa;(键鼠/摇杆)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="70" width="144" height="67" as="geometry" />
+          <mxGeometry x="779" y="95" width="144" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-16" value="诺格伟业 RTK接收机&#xa;(船体位姿)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="70" width="206" height="67" as="geometry" />
+          <mxGeometry x="1001" y="95" width="206" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-17" value="诺格伟业 数传电台&lt;/b&gt;&#xa;(地面端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="877" width="246" height="84" as="geometry" />
