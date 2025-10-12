@@ -37,7 +37,7 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-11" value="多链路通信管理模块&#xa;- 自定义数据链路 (控制/遥测)&#xa;- DJI图传链路 (视频)&#xa;- 数据打包/解包/路由" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="-310" width="223" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-12" value="安全与故障管理模块&#xa;(1) 遥控器优先接管&#xa;(2) 通信中断Failsafe&#xa;(3) 动态地理围栏&#xa;(4) 内部防碰撞&#xa;(5) 紧急退出机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-12" value="安全与故障管理模块&#xa;(1) 遥控器优先接管&#xa;(2) 通信中断Failsafe&#xa;(3) 动态地理围栏&#xa;(4) 内部防碰撞&#xa;(5) 紧急退出机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="718" y="-790" width="257" height="120" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-13" value="" style="startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-6">
