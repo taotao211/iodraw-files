@@ -7,7 +7,7 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-1" value="支撑层" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="23" y="469" width="319" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-2" value="感知与执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-2" value="感知与执行层" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="74" y="812" width="867" height="380" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-3" value="决策与控制层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;" vertex="1" parent="1">
@@ -20,7 +20,7 @@
           <mxGeometry x="140" y="172" width="223" height="62" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-6" value="任务与编队规划模块&#xa;- 航线路径生成&#xa;- 编队队形解算&#xa;- 手动跟随指令转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="397" y="334" width="223" height="61" as="geometry" />
+          <mxGeometry x="470" y="350" width="223" height="61" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-7" value="核心编队控制模块&#xa;- 级联PID控制器&#xa;- 虚拟领航者算法&#xa;- 长机-僚机跟随算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="653" width="223" height="61" as="geometry" />
