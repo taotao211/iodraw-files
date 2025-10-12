@@ -55,7 +55,7 @@
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-17" value="诺格伟业 数传电台&lt;/b&gt;&#xa;(地面端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="877" width="246" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-18" value="&lt;b style=&quot;font-size:16px&quot;&gt;诺格伟业 数传电台&lt;/b&gt;&#xa;(机载端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-18" value="诺格伟业 数传电台&#xa;(机载端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="1034" width="246" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-19" value="DJI O3 Enterprise&#xa;(图传链路)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
