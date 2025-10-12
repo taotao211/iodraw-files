@@ -34,7 +34,7 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-10" value="&lt;b style=&quot;font-size:18px&quot;&gt;平台接口模块&lt;/b&gt;&#xa;- DJI OSDK/PSDK封装&#xa;- JAI SDK封装&#xa;- 传感器数据接入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="608" y="837" width="223" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-11" value="&lt;b style=&quot;font-size:18px&quot;&gt;多链路通信管理模块&lt;/b&gt;&#xa;- 自定义数据链路 (控制/遥测)&#xa;- DJI图传链路 (视频)&#xa;- 数据打包/解包/路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-11" value="多链路通信管理模块&#xa;- 自定义数据链路 (控制/遥测)&#xa;- DJI图传链路 (视频)&#xa;- 数据打包/解包/路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="76" y="494" width="223" height="61" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-12" value="安全与故障管理模块&lt;/b&gt;&#xa;- 遥控器优先接管&#xa;- 通信中断Failsafe&#xa;- 动态地理围栏&#xa;- 内部防碰撞&#xa;- 紧急退出机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
