@@ -40,52 +40,52 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-12" value="安全与故障管理模块&#xa;(1) 遥控器优先接管&#xa;(2) 通信中断Failsafe&#xa;(3) 动态地理围栏&#xa;(4) 内部防碰撞&#xa;(5) 紧急退出机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="718" y="-790" width="257" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-6">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-13" value="" style="startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-14" value="编队任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.18;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-6" target="olEkte4Vw7Ncrsxtpiqo-11">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-14" value="编队任务" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.18;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-6" target="olEkte4Vw7Ncrsxtpiqo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-15" value="直接控制" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-11">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-15" value="直接控制" style="startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-16" value="编队任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.28;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-11" target="olEkte4Vw7Ncrsxtpiqo-7">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-16" value="编队任务" style="startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.28;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-11" target="olEkte4Vw7Ncrsxtpiqo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-17" value="实时位姿" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=0;entryX=0.21;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-7">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-17" value="实时位姿" style="startArrow=none;endArrow=block;exitX=0.33;exitY=0;entryX=0.21;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-18" value="实时位姿" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=1;entryY=0.88;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-6">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-18" value="实时位姿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=1;entryY=0.88;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-19" value="控制指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0.43;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-7" target="olEkte4Vw7Ncrsxtpiqo-10">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-19" value="控制指令" style="startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0.43;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-7" target="olEkte4Vw7Ncrsxtpiqo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-20" value="载荷指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.54;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-11">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-20" value="载荷指令" style="startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.54;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-21" value="载荷指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0;entryY=0.09;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-11" target="olEkte4Vw7Ncrsxtpiqo-9">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-21" value="载荷指令" style="startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0;entryY=0.09;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-11" target="olEkte4Vw7Ncrsxtpiqo-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-22" value="PPS信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-9">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-22" value="PPS信号" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-23" value="执行指令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.18;entryX=0.84;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-9" target="olEkte4Vw7Ncrsxtpiqo-10">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-23" value="执行指令" style="startArrow=none;endArrow=block;exitX=1;exitY=0.18;entryX=0.84;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-9" target="olEkte4Vw7Ncrsxtpiqo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-24" value="传感器数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.09;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-10" target="olEkte4Vw7Ncrsxtpiqo-8">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-24" value="传感器数据" style="startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.09;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-10" target="olEkte4Vw7Ncrsxtpiqo-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-25" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-5">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-25" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-26" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.82;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-7">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-26" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.82;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-27" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.68;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-11">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-27" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.68;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-28" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.66;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-10">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-28" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.66;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
