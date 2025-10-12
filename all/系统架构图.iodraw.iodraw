@@ -144,71 +144,32 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1271" y="1411" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-39" value="" style="startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="978" y="1411" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-40" value="" style="startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-41" value="速度指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-21" target="fjxyiE_kr8u_0Q4QFBZh-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1271" y="1568" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-41" value="速度指令" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-21" target="fjxyiE_kr8u_0Q4QFBZh-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-42" value="触发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1.01;entryX=0.18;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1080" y="1568" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-42" value="触发指令" style="startArrow=none;endArrow=block;exitX=0.72;exitY=1.01;entryX=0.18;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-43" value="OSDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.58;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1347" y="1696" />
-              <mxPoint x="693" y="1733" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-43" value="OSDK" style="startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.58;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-44" value="OSDK/PSDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1263" y="1696" />
-              <mxPoint x="503" y="1733" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-44" value="OSDK/PSDK" style="startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0.56;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-45" value="JAI SDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=0.99;entryY=0.21;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="922" y="1568" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-45" value="JAI SDK" style="startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=0.99;entryY=0.21;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-46" value="GPIO中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-27" target="fjxyiE_kr8u_0Q4QFBZh-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="573" y="1411" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-46" value="GPIO中断" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-27" target="fjxyiE_kr8u_0Q4QFBZh-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-47" value="遥测数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.23;entryX=0;entryY=0.95;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-24" target="fjxyiE_kr8u_0Q4QFBZh-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="405" y="1733" />
-              <mxPoint x="1019" y="1696" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-47" value="遥测数据" style="startArrow=none;endArrow=block;exitX=0;exitY=0.23;entryX=0;entryY=0.95;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-24" target="fjxyiE_kr8u_0Q4QFBZh-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-48" value="串口/UDP" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-18" target="fjxyiE_kr8u_0Q4QFBZh-20">
           <mxGeometry relative="1" as="geometry" />
