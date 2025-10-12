@@ -13,7 +13,7 @@
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="1165" width="446" height="435" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="936" y="1165" width="613" height="431" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-5" value="无线通信链路" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="995" y="997" width="184" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-20" value="communication_bridge_node&#xa;(机载端通信桥)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1123" y="1190" width="258" height="84" as="geometry" />
+          <mxGeometry x="1123" y="1195" width="258" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-21" value="formation_control_node&#xa;(编队控制PID算法)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1276.5" y="1347.5" width="234" height="67" as="geometry" />
