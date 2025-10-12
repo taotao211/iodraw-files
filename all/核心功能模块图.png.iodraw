@@ -1,0 +1,94 @@
+<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="g9MGk3DaVtH8BGT2oc54">
+    <mxGraphModel dx="1434" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-1" value="支撑层" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="353" y="-321" width="319" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-2" value="感知与执行层" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="404" y="22" width="867" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-3" value="决策与控制层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="692" y="-481" width="528" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-4" value="用户层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-660" width="434" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-5" value="人机交互模块 (HMI)&#xa;- 实时状态监控&#xa;- 地图任务规划&#xa;- 编队指令下达&#xa;- 视频画面监看" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-630" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-6" value="任务与编队规划模块&#xa;- 航线路径生成&#xa;- 编队队形解算&#xa;- 手动跟随指令转换" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-440" width="223" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-7" value="核心编队控制模块&#xa;- 级联PID控制器&#xa;- 虚拟领航者算法&#xa;- 长机-僚机跟随算法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-160" width="223" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-8" value="高精度定位感知模块&#xa;- 船体动态位姿解算&#xa;- 无人机RTK定位&#xa;- 多源数据坐标系统一" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="759" y="160" width="223" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-9" value="多载荷管理与同步模块&#xa;- P1 &amp;amp; JAI相机控制&#xa;- 基于PPS硬件同步触发&#xa;- 图像数据采集与回传" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="701" y="290" width="234" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-10" value="平台接口模块&#xa;- DJI OSDK/PSDK封装&#xa;- JAI SDK封装&#xa;- 传感器数据接入" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="938" y="47" width="223" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-11" value="多链路通信管理模块&#xa;- 自定义数据链路 (控制/遥测)&#xa;- DJI图传链路 (视频)&#xa;- 数据打包/解包/路由" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-290.5" width="223" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-12" value="安全与故障管理模块&#xa;(1) 遥控器优先接管&#xa;(2) 通信中断Failsafe&#xa;(3) 动态地理围栏&#xa;(4) 内部防碰撞&#xa;(5) 紧急退出机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="718" y="-790" width="257" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-13" value="" style="startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-14" value="编队任务" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.18;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-6" target="olEkte4Vw7Ncrsxtpiqo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-15" value="直接控制" style="startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-16" value="编队任务" style="startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.28;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-11" target="olEkte4Vw7Ncrsxtpiqo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-17" value="实时位姿" style="startArrow=none;endArrow=block;exitX=0.33;exitY=0;entryX=0.21;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-18" value="实时位姿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=1;entryY=0.88;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-19" value="控制指令" style="startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0.43;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-7" target="olEkte4Vw7Ncrsxtpiqo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-20" value="载荷指令" style="startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.54;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-5" target="olEkte4Vw7Ncrsxtpiqo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-21" value="载荷指令" style="startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0;entryY=0.09;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-11" target="olEkte4Vw7Ncrsxtpiqo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-22" value="PPS信号" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-8" target="olEkte4Vw7Ncrsxtpiqo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-23" value="执行指令" style="startArrow=none;endArrow=block;exitX=1;exitY=0.18;entryX=0.84;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-9" target="olEkte4Vw7Ncrsxtpiqo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-24" value="传感器数据" style="startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.09;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-10" target="olEkte4Vw7Ncrsxtpiqo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-25" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-26" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.82;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=15;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-27" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.68;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-28" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.66;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="olEkte4Vw7Ncrsxtpiqo-12" target="olEkte4Vw7Ncrsxtpiqo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
