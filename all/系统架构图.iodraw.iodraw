@@ -19,7 +19,7 @@
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-5" value="无线通信链路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="664" y="852" width="550" height="291" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-6" value="船载指控中心 (GCS - 运行于W40P服务器)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-6" value="船载指控中心 (GCS - 运行于W40P服务器)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="638" y="20" width="634" height="759" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-7" value="外部硬件接口 (Ground)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
