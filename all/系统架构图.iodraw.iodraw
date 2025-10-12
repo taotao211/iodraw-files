@@ -11,7 +11,7 @@
           <mxGeometry x="450" y="1230" width="1119" height="540" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="1265" width="446" height="485" as="geometry" />
+          <mxGeometry x="470" y="1265" width="446" height="435" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="936" y="1265" width="613" height="431" as="geometry" />
