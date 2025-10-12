@@ -17,7 +17,7 @@
           <mxGeometry x="936" y="1165" width="613" height="431" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-5" value="无线通信链路" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="664" y="806" width="550" height="291" as="geometry" />
+          <mxGeometry x="640" y="806" width="574" height="291" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-6" value="船载指控中心 (GCS - 运行于W40P服务器)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;verticalAlign=top;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="638" y="20" width="634" height="759" as="geometry" />
