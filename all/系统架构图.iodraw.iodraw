@@ -8,7 +8,7 @@
           <mxGeometry x="1252" y="852" width="254" height="239" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-2" value="机载智能系统 (UAV - 运行于妙算3, x2套)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="330" y="1240" width="1119" height="530" as="geometry" />
+          <mxGeometry x="330" y="1230" width="1119" height="540" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="350" y="1265" width="446" height="485" as="geometry" />
