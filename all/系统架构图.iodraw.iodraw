@@ -11,7 +11,7 @@
           <mxGeometry x="330" y="1240" width="1119" height="646" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="1265" width="446" height="596" as="geometry" />
+          <mxGeometry x="350" y="1265" width="446" height="485" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="816" y="1265" width="613" height="431" as="geometry" />
@@ -74,10 +74,10 @@
           <mxGeometry x="1117" y="1605" width="218" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-24" value="M400 飞控&#xa;(RTK, IMU)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="602" y="1769" width="136" height="67" as="geometry" />
+          <mxGeometry x="584.5" y="1560" width="136" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-25" value="禅思P1相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="408" y="1778" width="143" height="49" as="geometry" />
+          <mxGeometry x="390.5" y="1569" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-26" value="JAI工业相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="482" y="1480" width="147" height="49" as="geometry" />
