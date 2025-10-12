@@ -10,7 +10,7 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-2" value="感知与执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="812" width="867" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-3" value="决策与控制层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-3" value="决策与控制层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="362" y="309" width="528" height="430" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-4" value="用户层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=20;" vertex="1" parent="1">
