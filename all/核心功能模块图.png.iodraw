@@ -28,7 +28,7 @@
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-8" value="高精度定位感知模块&#xa;- 船体动态位姿解算&#xa;- 无人机RTK定位&#xa;- 多源数据坐标系统一" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="759" y="160" width="223" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="olEkte4Vw7Ncrsxtpiqo-9" value="多载荷管理与同步模块&#xa;- P1 &amp;amp; JAI相机控制&#xa;- 基于PPS硬件同步触发&#xa;- 图像数据采集与回传" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="olEkte4Vw7Ncrsxtpiqo-9" value="多载荷管理与同步模块&#xa;- P1&amp;JAI相机控制&#xa;- 基于PPS硬件同步触发&#xa;- 图像数据采集与回传" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="701" y="290" width="234" height="100" as="geometry" />
         </mxCell>
         <mxCell id="olEkte4Vw7Ncrsxtpiqo-10" value="平台接口模块&#xa;- DJI OSDK/PSDK封装&#xa;- JAI SDK封装&#xa;- 传感器数据接入" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
