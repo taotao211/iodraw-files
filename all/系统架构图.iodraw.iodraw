@@ -28,7 +28,7 @@
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-8" value="GCS ROS后台 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="658" y="386" width="594" height="367" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-9" value="GCS前端界面&lt;/b&gt;&#xa;(Electron + Vue.js)&#xa;地图/遥测/控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-9" value="GCS前端界面&#xa;(Electron + Vue.js)&#xa;地图/遥测/控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="729" y="212" width="246" height="102" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-10" value="rosbridge_server&#xa;(WebSocket接口)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
