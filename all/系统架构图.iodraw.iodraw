@@ -10,7 +10,7 @@
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-2" value="机载智能系统 (UAV - 运行于妙算3, x2套)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="450" y="1130" width="1119" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="1165" width="446" height="435" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
