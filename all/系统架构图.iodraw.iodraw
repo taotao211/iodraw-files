@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-1" value="遥控器与视频流" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="542" y="1959" width="254" height="239" as="geometry" />
+          <mxGeometry x="525.5" y="1830" width="254" height="239" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-2" value="机载智能系统 (UAV - 运行于妙算3, x2套)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="330" y="1240" width="1119" height="646" as="geometry" />
+          <mxGeometry x="330" y="1240" width="1119" height="530" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="350" y="1265" width="446" height="485" as="geometry" />
@@ -86,10 +86,10 @@
           <mxGeometry x="482" y="1308" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-28" value="DJI RC Plus&#xa;(飞手遥控器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1984" width="152" height="67" as="geometry" />
+          <mxGeometry x="577.5" y="1855" width="152" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-29" value="GCS视频显示窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="577" y="2123" width="184" height="49" as="geometry" />
+          <mxGeometry x="560.5" y="1994" width="184" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-30" value="WebSocket (roslibjs)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-9" target="fjxyiE_kr8u_0Q4QFBZh-10">
           <mxGeometry relative="1" as="geometry">
