@@ -65,10 +65,10 @@
           <mxGeometry x="1003" y="1290" width="258" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-21" value="formation_control_node&#xa;(编队控制PID算法)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1154" y="1456" width="234" height="67" as="geometry" />
+          <mxGeometry x="1156.5" y="1447.5" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-22" value="payload_management_node&#xa;(载荷同步控制)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="852" y="1447" width="252" height="84" as="geometry" />
+          <mxGeometry x="854.5" y="1438.5" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-23" value="dji_osdk_ros_wrapper&#xa;(飞控接口)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1117" y="1605" width="218" height="67" as="geometry" />
