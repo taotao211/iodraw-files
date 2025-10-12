@@ -1,0 +1,231 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="SbNRu-vimkcievEOF1qf">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-1" value="遥控器与视频流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1935" width="254" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-2" value="机载智能系统 (UAV - 运行于妙算3, x2套)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1216" width="1119" height="646" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1241" width="446" height="596" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="506" y="1241" width="613" height="431" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-5" value="无线通信链路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="664" y="852" width="550" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-6" value="船载指控中心 (GCS - 运行于W40P服务器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="638" y="20" width="634" height="759" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-7" value="外部硬件接口 (Ground)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="745" y="45" width="498" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-8" value="GCS ROS后台 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="658" y="386" width="594" height="367" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-9" value="&lt;b style=&quot;font-size:16px&quot;&gt;GCS前端界面&lt;/b&gt;&#xa;(Electron + Vue.js)&#xa;地图/遥测/控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="729" y="212" width="246" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-10" value="rosbridge_server&#xa;(WebSocket接口)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="761" y="411" width="182" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-11" value="gcs_master_node&#xa;(任务状态机/指令分发)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="881" y="528" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-12" value="task_planner_node&#xa;(航线规划/手动指令)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="653" width="208" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-13" value="communication_bridge_node&#xa;(地面端通信桥)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="693" y="645" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-14" value="ship_localization_node&#xa;(船体定位解算)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="993" y="411" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-15" value="操作员&#xa;(键鼠/摇杆)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="70" width="144" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-16" value="诺格伟业 RTK接收机&#xa;(船体位姿)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="70" width="206" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-17" value="&lt;b style=&quot;font-size:16px&quot;&gt;诺格伟业 数传电台&lt;/b&gt;&#xa;(地面端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="699" y="877" width="246" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-18" value="&lt;b style=&quot;font-size:16px&quot;&gt;诺格伟业 数传电台&lt;/b&gt;&#xa;(机载端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="699" y="1034" width="246" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-19" value="DJI O3 Enterprise&#xa;(图传链路)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="995" y="1043" width="184" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-20" value="communication_bridge_node&#xa;(机载端通信桥)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="693" y="1266" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-21" value="formation_control_node&#xa;(编队控制PID算法)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="844" y="1432" width="234" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-22" value="payload_management_node&#xa;(载荷同步控制)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1423" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-23" value="dji_osdk_ros_wrapper&#xa;(飞控接口)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="807" y="1581" width="218" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-24" value="M400 飞控&#xa;(RTK, IMU)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292" y="1745" width="136" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-25" value="禅思P1相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1754" width="143" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-26" value="JAI工业相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1589" width="147" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-27" value="RTK模块 PPS信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="172" y="1284" width="183" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-28" value="DJI RC Plus&#xa;(飞手遥控器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1960" width="152" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-29" value="GCS视频显示窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2099" width="184" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-30" value="WebSocket (roslibjs)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-9" target="fjxyiE_kr8u_0Q4QFBZh-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-31" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-10" target="fjxyiE_kr8u_0Q4QFBZh-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-11" target="fjxyiE_kr8u_0Q4QFBZh-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-11" target="fjxyiE_kr8u_0Q4QFBZh-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="822" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.79;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-14" target="fjxyiE_kr8u_0Q4QFBZh-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-15" target="fjxyiE_kr8u_0Q4QFBZh-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-36" value="串口/USB" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-16" target="fjxyiE_kr8u_0Q4QFBZh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-37" value="自定义数据" style="curved=1;startArrow=block;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-17" target="fjxyiE_kr8u_0Q4QFBZh-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-38" value="串口/UDP" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-13" target="fjxyiE_kr8u_0Q4QFBZh-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="961" y="1387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="668" y="1387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-41" value="速度指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-21" target="fjxyiE_kr8u_0Q4QFBZh-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="961" y="1544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-42" value="触发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1.01;entryX=0.18;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-43" value="OSDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.58;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1037" y="1672" />
+              <mxPoint x="383" y="1709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-44" value="OSDK/PSDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="1672" />
+              <mxPoint x="193" y="1709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-45" value="JAI SDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=0.99;entryY=0.21;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="1544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-46" value="GPIO中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-27" target="fjxyiE_kr8u_0Q4QFBZh-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="1387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-47" value="遥测数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.23;entryX=0;entryY=0.95;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-24" target="fjxyiE_kr8u_0Q4QFBZh-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="1709" />
+              <mxPoint x="709" y="1672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-48" value="串口/UDP" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-18" target="fjxyiE_kr8u_0Q4QFBZh-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-49" value="O3图传" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-24" target="fjxyiE_kr8u_0Q4QFBZh-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjxyiE_kr8u_0Q4QFBZh-50" value="WSDK拉流/HDMI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-28" target="fjxyiE_kr8u_0Q4QFBZh-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
