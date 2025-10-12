@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-1" value="遥控器与视频流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="232" y="1935" width="254" height="239" as="geometry" />
+          <mxGeometry x="542" y="1959" width="254" height="239" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-2" value="机载智能系统 (UAV - 运行于妙算3, x2套)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1216" width="1119" height="646" as="geometry" />
+          <mxGeometry x="330" y="1240" width="1119" height="646" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1241" width="446" height="596" as="geometry" />
+          <mxGeometry x="350" y="1265" width="446" height="596" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="506" y="1241" width="613" height="431" as="geometry" />
+          <mxGeometry x="816" y="1265" width="613" height="431" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-5" value="无线通信链路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="664" y="852" width="550" height="291" as="geometry" />
@@ -62,34 +62,34 @@
           <mxGeometry x="995" y="1043" width="184" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-20" value="communication_bridge_node&#xa;(机载端通信桥)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="693" y="1266" width="258" height="84" as="geometry" />
+          <mxGeometry x="1003" y="1290" width="258" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-21" value="formation_control_node&#xa;(编队控制PID算法)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="844" y="1432" width="234" height="67" as="geometry" />
+          <mxGeometry x="1154" y="1456" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-22" value="payload_management_node&#xa;(载荷同步控制)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="542" y="1423" width="252" height="84" as="geometry" />
+          <mxGeometry x="852" y="1447" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-23" value="dji_osdk_ros_wrapper&#xa;(飞控接口)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="807" y="1581" width="218" height="67" as="geometry" />
+          <mxGeometry x="1117" y="1605" width="218" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-24" value="M400 飞控&#xa;(RTK, IMU)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="292" y="1745" width="136" height="67" as="geometry" />
+          <mxGeometry x="602" y="1769" width="136" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-25" value="禅思P1相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="98" y="1754" width="143" height="49" as="geometry" />
+          <mxGeometry x="408" y="1778" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-26" value="JAI工业相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1589" width="147" height="49" as="geometry" />
+          <mxGeometry x="500" y="1613" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-27" value="RTK模块 PPS信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="172" y="1284" width="183" height="49" as="geometry" />
+          <mxGeometry x="482" y="1308" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-28" value="DJI RC Plus&#xa;(飞手遥控器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="284" y="1960" width="152" height="67" as="geometry" />
+          <mxGeometry x="594" y="1984" width="152" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-29" value="GCS视频显示窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="2099" width="184" height="49" as="geometry" />
+          <mxGeometry x="577" y="2123" width="184" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-30" value="WebSocket (roslibjs)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-9" target="fjxyiE_kr8u_0Q4QFBZh-10">
           <mxGeometry relative="1" as="geometry">
@@ -147,66 +147,66 @@
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="961" y="1387" />
+              <mxPoint x="1271" y="1411" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-20" target="fjxyiE_kr8u_0Q4QFBZh-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="668" y="1387" />
+              <mxPoint x="978" y="1411" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-41" value="速度指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-21" target="fjxyiE_kr8u_0Q4QFBZh-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="961" y="1544" />
+              <mxPoint x="1271" y="1568" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-42" value="触发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1.01;entryX=0.18;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="1544" />
+              <mxPoint x="1080" y="1568" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-43" value="OSDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.58;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1037" y="1672" />
-              <mxPoint x="383" y="1709" />
+              <mxPoint x="1347" y="1696" />
+              <mxPoint x="693" y="1733" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-44" value="OSDK/PSDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-23" target="fjxyiE_kr8u_0Q4QFBZh-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="953" y="1672" />
-              <mxPoint x="193" y="1709" />
+              <mxPoint x="1263" y="1696" />
+              <mxPoint x="503" y="1733" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-45" value="JAI SDK" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=0.99;entryY=0.21;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-22" target="fjxyiE_kr8u_0Q4QFBZh-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="612" y="1544" />
+              <mxPoint x="922" y="1568" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-46" value="GPIO中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-27" target="fjxyiE_kr8u_0Q4QFBZh-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="263" y="1387" />
+              <mxPoint x="573" y="1411" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-47" value="遥测数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.23;entryX=0;entryY=0.95;rounded=0;" edge="1" parent="1" source="fjxyiE_kr8u_0Q4QFBZh-24" target="fjxyiE_kr8u_0Q4QFBZh-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="95" y="1709" />
-              <mxPoint x="709" y="1672" />
+              <mxPoint x="405" y="1733" />
+              <mxPoint x="1019" y="1696" />
             </Array>
           </mxGeometry>
         </mxCell>
