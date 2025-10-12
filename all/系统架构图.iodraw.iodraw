@@ -8,13 +8,13 @@
           <mxGeometry x="1252" y="852" width="254" height="239" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-2" value="机载智能系统 (UAV - 运行于妙算3, x2套)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="330" y="1230" width="1119" height="540" as="geometry" />
+          <mxGeometry x="450" y="1230" width="1119" height="540" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-3" value="机载硬件与传感器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="1265" width="446" height="485" as="geometry" />
+          <mxGeometry x="470" y="1265" width="446" height="485" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-4" value="机载 ROS系统 (ROS Noetic)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="816" y="1265" width="613" height="431" as="geometry" />
+          <mxGeometry x="936" y="1265" width="613" height="431" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-5" value="无线通信链路" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="664" y="852" width="550" height="291" as="geometry" />
@@ -62,28 +62,28 @@
           <mxGeometry x="995" y="1043" width="184" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-20" value="communication_bridge_node&#xa;(机载端通信桥)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="1290" width="258" height="84" as="geometry" />
+          <mxGeometry x="1123" y="1290" width="258" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-21" value="formation_control_node&#xa;(编队控制PID算法)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1156.5" y="1447.5" width="234" height="67" as="geometry" />
+          <mxGeometry x="1276.5" y="1447.5" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-22" value="payload_management_node&#xa;(载荷同步控制)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="854.5" y="1438.5" width="252" height="84" as="geometry" />
+          <mxGeometry x="974.5" y="1438.5" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-23" value="dji_osdk_ros_wrapper&#xa;(飞控接口)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="1605" width="218" height="67" as="geometry" />
+          <mxGeometry x="1237" y="1605" width="218" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-24" value="M400 飞控&#xa;(RTK, IMU)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="584.5" y="1560" width="136" height="67" as="geometry" />
+          <mxGeometry x="704.5" y="1560" width="136" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-25" value="禅思P1相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390.5" y="1569" width="143" height="49" as="geometry" />
+          <mxGeometry x="510.5" y="1569" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-26" value="JAI工业相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="482" y="1480" width="147" height="49" as="geometry" />
+          <mxGeometry x="602" y="1480" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-27" value="RTK模块 PPS信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="482" y="1308" width="183" height="49" as="geometry" />
+          <mxGeometry x="602" y="1308" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fjxyiE_kr8u_0Q4QFBZh-28" value="DJI RC Plus&#xa;(飞手遥控器)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1304" y="877" width="152" height="67" as="geometry" />
