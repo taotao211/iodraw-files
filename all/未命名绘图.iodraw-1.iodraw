@@ -5,49 +5,49 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-1" value="Cloud Platform (e.g., AWS, Azure, Aliyun)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="293" y="430" width="819" height="763" as="geometry" />
+          <mxGeometry x="130" y="480" width="819" height="763" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-2" value="Kubernetes Cluster" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="313" y="678" width="557" height="490" as="geometry" />
+          <mxGeometry x="150" y="728" width="557" height="490" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-3" value="Internet" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="243" height="99" as="geometry" />
+          <mxGeometry x="407" y="330" width="243" height="99" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-4" value="Developer/User" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="605" y="305" width="173" height="49" as="geometry" />
+          <mxGeometry x="442" y="355" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-5" value="Load Balancer" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="358" y="579" width="162" height="49" as="geometry" />
+          <mxGeometry x="195" y="629" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-6" value="Nginx Ingress" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="368" y="703" width="143" height="143" as="geometry" />
+          <mxGeometry x="205" y="753" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-7" value="Frontend Pods" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="348" y="896" width="162" height="49" as="geometry" />
+          <mxGeometry x="185" y="946" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-8" value="Backend Pods" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="570" y="896" width="157" height="49" as="geometry" />
+          <mxGeometry x="407" y="946" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-9" value="Database Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="448" y="995" width="182" height="49" as="geometry" />
+          <mxGeometry x="285" y="1045" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-10" value="PostgreSQL Pod" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1094" width="169" height="49" as="geometry" />
+          <mxGeometry x="292" y="1144" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-11" value="Redis Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="995" width="154" height="49" as="geometry" />
+          <mxGeometry x="517" y="1045" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-12" value="Redis Pod" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="693" y="1094" width="128" height="49" as="geometry" />
+          <mxGeometry x="530" y="1144" width="128" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-13" value="CI/CD Pipeline" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="909" y="579" width="164" height="49" as="geometry" />
+          <mxGeometry x="746" y="629" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-14" value="Docker Registry" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="905" y="750" width="172" height="49" as="geometry" />
+          <mxGeometry x="742" y="800" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-15" value="Git Repository" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="910" y="455" width="163" height="49" as="geometry" />
+          <mxGeometry x="747" y="505" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-5" target="VXDZH9I5m6pl4TJIzcm0-6">
           <mxGeometry relative="1" as="geometry">
@@ -57,21 +57,21 @@
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.36;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-6" target="VXDZH9I5m6pl4TJIzcm0-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="381" y="871" />
+              <mxPoint x="218" y="921" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.17;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-6" target="VXDZH9I5m6pl4TJIzcm0-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="544" y="871" />
+              <mxPoint x="381" y="921" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-8" target="VXDZH9I5m6pl4TJIzcm0-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="539" y="970" />
+              <mxPoint x="376" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,7 +83,7 @@
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-8" target="VXDZH9I5m6pl4TJIzcm0-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="757" y="970" />
+              <mxPoint x="594" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,14 +100,14 @@
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.79;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-14" target="VXDZH9I5m6pl4TJIzcm0-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="524" y="871" />
+              <mxPoint x="361" y="921" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.99;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="VXDZH9I5m6pl4TJIzcm0-14" target="VXDZH9I5m6pl4TJIzcm0-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="803" y="871" />
+              <mxPoint x="640" y="921" />
             </Array>
           </mxGeometry>
         </mxCell>
