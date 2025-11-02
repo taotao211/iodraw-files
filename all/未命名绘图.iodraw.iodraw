@@ -20,7 +20,7 @@
           <mxGeometry x="215" y="398" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-6" value="4. 适配器层 (Adapter Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="60" y="490" width="130" height="71" as="geometry" />
+          <mxGeometry x="43" y="510" width="157" height="71" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-7" value="💿 数据访问层 (Data Access)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="419" y="380" width="211" height="67" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="43" y="645" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-10" value="⚙️ 配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="240" y="521" width="120" height="49" as="geometry" />
+          <mxGeometry x="230" y="510" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=-0.02;rounded=0;" edge="1" parent="vZhaEU7jVNGKhyEyTjVS-1" source="vZhaEU7jVNGKhyEyTjVS-2" target="vZhaEU7jVNGKhyEyTjVS-3">
           <mxGeometry relative="1" as="geometry">
