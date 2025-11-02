@@ -10,13 +10,13 @@
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-2" value="Kubernetes Cluster" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="728" width="557" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="VXDZH9I5m6pl4TJIzcm0-3" value="Internet" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="VXDZH9I5m6pl4TJIzcm0-3" value="Internet" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="407" y="330" width="243" height="99" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-4" value="Developer/User" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="442" y="355" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VXDZH9I5m6pl4TJIzcm0-5" value="Load Balancer" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="VXDZH9I5m6pl4TJIzcm0-5" value="Load Balancer" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="195" y="629" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-6" value="Nginx Ingress" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
