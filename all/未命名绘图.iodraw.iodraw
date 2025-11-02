@@ -19,10 +19,10 @@
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-5" value="3. 核心层 (Core Layer)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=12;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="110" y="340" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vZhaEU7jVNGKhyEyTjVS-6" value="4. 适配器层 (Adapter Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
+        <mxCell id="vZhaEU7jVNGKhyEyTjVS-6" value="4. 适配器层 (Adapter Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="43" y="510" width="157" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="vZhaEU7jVNGKhyEyTjVS-7" value="💿 数据访问层 (Data Access)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
+        <mxCell id="vZhaEU7jVNGKhyEyTjVS-7" value="💿 数据访问层 (Data Access)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="419" y="380" width="211" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-8" value="🗄️ 数据库 (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
