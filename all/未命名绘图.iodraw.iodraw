@@ -20,7 +20,7 @@
           <mxGeometry x="215" y="398" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-6" value="4. 适配器层 (Adapter Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="130" y="531" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="490" width="130" height="71" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-7" value="💿 数据访问层 (Data Access)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="419" y="380" width="211" height="67" as="geometry" />
