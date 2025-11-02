@@ -25,13 +25,13 @@
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-7" value="💿 数据访问层 (Data Access)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="419" y="380" width="211" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="vZhaEU7jVNGKhyEyTjVS-8" value="🗄️ 数据库 (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
+        <mxCell id="vZhaEU7jVNGKhyEyTjVS-8" value="🗄️ 数据库 (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="410" y="510" width="231" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-9" value="🧠 外部大模型 (Ollama, OpenAI, etc.)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="43" y="645" width="234" height="67" as="geometry" />
+          <mxGeometry x="43" y="645" width="597" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="vZhaEU7jVNGKhyEyTjVS-10" value="⚙️ 配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
+        <mxCell id="vZhaEU7jVNGKhyEyTjVS-10" value="⚙️ 配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="230" y="510" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=-0.02;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="vZhaEU7jVNGKhyEyTjVS-1" source="vZhaEU7jVNGKhyEyTjVS-2" target="vZhaEU7jVNGKhyEyTjVS-3">
