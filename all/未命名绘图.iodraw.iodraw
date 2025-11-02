@@ -17,7 +17,7 @@
           <mxGeometry x="327" y="275" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-5" value="3. 核心层 (Core Layer)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="215" y="398" width="30" height="30" as="geometry" />
+          <mxGeometry x="215" y="340" width="185" height="88" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-6" value="4. 适配器层 (Adapter Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="43" y="510" width="157" height="71" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry x="419" y="380" width="211" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-8" value="🗄️ 数据库 (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="410" y="521" width="231" height="49" as="geometry" />
+          <mxGeometry x="410" y="510" width="231" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-9" value="🧠 外部大模型 (Ollama, OpenAI, etc.)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="43" y="645" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-10" value="⚙️ 配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="230" y="510" width="130" height="70" as="geometry" />
+          <mxGeometry x="230" y="510" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=-0.02;rounded=0;" edge="1" parent="vZhaEU7jVNGKhyEyTjVS-1" source="vZhaEU7jVNGKhyEyTjVS-2" target="vZhaEU7jVNGKhyEyTjVS-3">
           <mxGeometry relative="1" as="geometry">
