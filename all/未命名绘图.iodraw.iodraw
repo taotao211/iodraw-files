@@ -14,10 +14,10 @@
           <mxGeometry x="245" y="130" width="190.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-4" value="2. 服务层 (Service Layer)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="327" y="275" width="30" height="30" as="geometry" />
+          <mxGeometry x="280" y="230" width="77" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-5" value="3. 核心层 (Core Layer)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=12;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
-          <mxGeometry x="110" y="340" width="195" height="88" as="geometry" />
+          <mxGeometry x="110" y="340" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-6" value="4. 适配器层 (Adapter Layer)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="43" y="510" width="157" height="71" as="geometry" />
