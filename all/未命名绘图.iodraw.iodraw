@@ -28,7 +28,7 @@
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-8" value="🗄️ 数据库 (PostgreSQL)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="410" y="510" width="231" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vZhaEU7jVNGKhyEyTjVS-9" value="🧠 外部大模型 (Ollama, OpenAI, etc.)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
+        <mxCell id="vZhaEU7jVNGKhyEyTjVS-9" value="🧠 外部大模型 (Ollama, OpenAI, etc.)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
           <mxGeometry x="43" y="645" width="597" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vZhaEU7jVNGKhyEyTjVS-10" value="⚙️ 配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="vZhaEU7jVNGKhyEyTjVS-1">
