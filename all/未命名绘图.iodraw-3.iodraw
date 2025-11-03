@@ -4,6 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-1" value="IDE Plugin / Web UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="159" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-2" value="Backend Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="499" y="20" width="150" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-3" value="LLM API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="778" y="20" width="150" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-4" value="Request Code Explanation (code_snippet, language, type)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-1" target="DjxlFdwRYqAcxE2XUpjC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-5" value="Analyze Code Structure (AST)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-2" target="DjxlFdwRYqAcxE2XUpjC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="179" />
+              <mxPoint x="625" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-6" value="Build Prompt (code + explanation instruction)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-2" target="DjxlFdwRYqAcxE2XUpjC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="261" />
+              <mxPoint x="625" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-7" value="Call LLM Explain API (prompt)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-2" target="DjxlFdwRYqAcxE2XUpjC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="722" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-8" value="Generated Explanation Text" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-3" target="DjxlFdwRYqAcxE2XUpjC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-9" value="Format Output" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-2" target="DjxlFdwRYqAcxE2XUpjC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="447" />
+              <mxPoint x="625" y="477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjxlFdwRYqAcxE2XUpjC-10" value="Return Explanation Text" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="DjxlFdwRYqAcxE2XUpjC-2" target="DjxlFdwRYqAcxE2XUpjC-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
