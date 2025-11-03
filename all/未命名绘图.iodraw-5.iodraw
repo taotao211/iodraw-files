@@ -4,6 +4,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-1" value="后端 (FastAPI + Python)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="20" width="928" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-2" value="前端 (Vite + React)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="177" width="754" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-3" value="npm run build" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="212" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-4" value="静态文件(HTML/JS/CSS)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="212" width="232" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-5" value="部署到CDN/Nginx" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="562" y="212" width="187" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-6" value="python start.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="55" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-7" value="RESTful API + SSE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="564" y="55" width="183" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-8" value="部署到K8s" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="71" width="133" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-3" target="N0YVt8C2R-V5uzEMXXT3-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-4" target="N0YVt8C2R-V5uzEMXXT3-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-6" target="N0YVt8C2R-V5uzEMXXT3-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-7" target="N0YVt8C2R-V5uzEMXXT3-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-13" value="通过HTTPS调用API进行通信" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.61;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-5" target="N0YVt8C2R-V5uzEMXXT3-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="774" y="236" />
+              <mxPoint x="900" y="111" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
