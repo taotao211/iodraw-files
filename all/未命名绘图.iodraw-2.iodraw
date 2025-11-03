@@ -19,7 +19,7 @@
         <mxCell id="8n6C5iow24UtNzFMsqKz-5" value="Backend Services Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="572" height="1050" as="geometry" />
         </mxCell>
-        <mxCell id="8n6C5iow24UtNzFMsqKz-6" value="User Interface Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="8n6C5iow24UtNzFMsqKz-6" value="用户接口层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="615" width="284" height="416" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-7" value="IDE Plugin: VS Code" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
