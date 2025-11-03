@@ -1,48 +1,9 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="V_qjmqXR1clBR-BYl-zP">
+  <diagram name="第 1 页" id="IR3IyL3G1SzxS-ccGFDt">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-1" value="负载均衡器 (Nginx/ALB)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="231" y="140" width="270" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-2" value="前端服务 (3+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="266" y="240" width="200" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-3" value="后端服务 (5+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="260" y="338" width="210" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-4" value="PostgreSQL (主从复制)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="437" width="219" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-5" value="Redis (哨兵)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="409" y="437" width="261" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="_RiUaiJM-b3c-X4MAN44-1" target="_RiUaiJM-b3c-X4MAN44-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="_RiUaiJM-b3c-X4MAN44-2" target="_RiUaiJM-b3c-X4MAN44-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="_RiUaiJM-b3c-X4MAN44-3" target="_RiUaiJM-b3c-X4MAN44-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="412" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="_RiUaiJM-b3c-X4MAN44-3" target="_RiUaiJM-b3c-X4MAN44-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="482" y="412" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
