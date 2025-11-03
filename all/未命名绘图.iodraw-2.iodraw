@@ -88,7 +88,7 @@
         <mxCell id="8n6C5iow24UtNzFMsqKz-28" value="Custom Models" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1925" y="795" width="167" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="Hardware Abstraction Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="硬件抽象层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1750" y="399.5" width="90" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-31" value="Redis Cache / Message Broker" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
