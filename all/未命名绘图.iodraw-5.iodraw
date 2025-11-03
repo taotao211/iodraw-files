@@ -29,10 +29,10 @@
           <mxGeometry x="-65" y="485.5" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-9" value="API Gateway (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="297" y="387" width="220" height="49" as="geometry" />
+          <mxGeometry x="297" y="387" width="303" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-10" value="认证中间件(JWT)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="593" y="466" width="183" height="49" as="geometry" />
+          <mxGeometry x="570" y="466" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-11" value="业务服务层" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="874" y="352" width="141" height="49" as="geometry" />
