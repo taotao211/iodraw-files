@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-1" value="后端 (FastAPI + Python)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=15;fontColor=#FF0080;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-1" value="后端 (FastAPI + Python)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=15;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="135" y="180" width="755" height="137" as="geometry" />
         </mxCell>
         <mxCell id="N0YVt8C2R-V5uzEMXXT3-2" value="前端 (Vite + React)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=15;fontColor=#FF0080;" vertex="1" parent="1">
