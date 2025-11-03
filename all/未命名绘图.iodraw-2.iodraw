@@ -77,16 +77,16 @@
           <mxGeometry x="2078" y="432" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-25" value="Claude API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="531" width="160" height="49" as="geometry" />
+          <mxGeometry x="2080" y="531" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-26" value="GPT API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2080" y="630" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-27" value="Gemini API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2094" y="729" width="137" height="49" as="geometry" />
+          <mxGeometry x="2080" y="710" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-28" value="Custom Models" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="828" width="167" height="49" as="geometry" />
+          <mxGeometry x="2085" y="796" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="Hardware Abstraction Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1780" y="520" width="250" height="49" as="geometry" />
