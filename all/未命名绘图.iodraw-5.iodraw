@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_RiUaiJM-b3c-X4MAN44-1" value="负载均衡器 (Nginx/ALB)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="270" height="49" as="geometry" />
+          <mxGeometry x="231" y="140" width="270" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-2" value="前端服务 (3+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="266" y="240" width="200" height="49" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="140" y="437" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-5" value="Redis (哨兵)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="409" y="437" width="221" height="49" as="geometry" />
+          <mxGeometry x="409" y="437" width="261" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="_RiUaiJM-b3c-X4MAN44-1" target="_RiUaiJM-b3c-X4MAN44-2">
           <mxGeometry relative="1" as="geometry">
