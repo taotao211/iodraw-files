@@ -34,7 +34,7 @@
         <mxCell id="8n6C5iow24UtNzFMsqKz-10" value="Web Admin UI" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="210" y="947" width="240" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8n6C5iow24UtNzFMsqKz-11" value="API Gateway / Main App (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;align=left;verticalAlign=top;fontColor=#FF6F3B;" vertex="1" parent="1">
+        <mxCell id="8n6C5iow24UtNzFMsqKz-11" value="API Gateway / Main App (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;align=left;verticalAlign=middle;fontColor=#FF6F3B;" vertex="1" parent="1">
           <mxGeometry x="530" y="690" width="234" height="107" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-12" value="Auth Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
