@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9t4xCm47ZtRTliBJtp1g">
-    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,19 +20,19 @@
           <mxGeometry x="483" y="125" width="589" height="1551" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-6" value="User Interface Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="929" width="284" height="416" as="geometry" />
+          <mxGeometry x="90" y="611" width="284" height="416" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-7" value="IDE Plugin: VS Code" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="62" y="964" width="200" height="49" as="geometry" />
+          <mxGeometry x="132" y="646" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-8" value="IDE Plugin: JetBrains" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="58" y="1063" width="209" height="49" as="geometry" />
+          <mxGeometry x="128" y="745" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-9" value="IDE Plugin: Visual Studio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1162" width="234" height="49" as="geometry" />
+          <mxGeometry x="115" y="844" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-10" value="Web Admin UI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="1261" width="160" height="49" as="geometry" />
+          <mxGeometry x="152" y="943" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-11" value="API Gateway / Main App (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="508" y="1202" width="234" height="67" as="geometry" />
