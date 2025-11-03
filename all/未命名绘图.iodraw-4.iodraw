@@ -4,6 +4,148 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BPJbkJFegHPpwEUsuc38-1" value="IDE Plugin / Web UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="159" height="1208" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-2" value="Backend Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="404" y="20" width="150" height="1208" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-3" value="Static Linters" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="604" y="20" width="150" height="1208" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-4" value="Rule Engine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="804" y="20" width="150" height="1208" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-5" value="LLM API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="20" width="150" height="1208" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-6" value="Git/Platform API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="20" width="150" height="1208" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="89" y="95" width="1201" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-8" value="[Review Code]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="BPJbkJFegHPpwEUsuc38-7">
+          <mxGeometry x="30" width="1171" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-9" value="[Generate Commit Msg]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="BPJbkJFegHPpwEUsuc38-7">
+          <mxGeometry y="103" width="1201" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-10" value="[Review PR]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="BPJbkJFegHPpwEUsuc38-7">
+          <mxGeometry y="201" width="1201" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-11" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="468" y="741" width="622" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-12" value="[Generate Commit Message]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="BPJbkJFegHPpwEUsuc38-11">
+          <mxGeometry x="30" width="592" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-13" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="468" y="983" width="822" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-14" value="[Post Review to Platform]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="BPJbkJFegHPpwEUsuc38-13">
+          <mxGeometry x="30" width="792" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-15" value="Request Code Review (code, language)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-1" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="173" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-16" value="Request Commit Msg (git_diff)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-1" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-17" value="Request PR Review (repo_url, pr_number)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-1" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-18" value="Fetch PR Diff" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="887" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-19" value="PR Diff Content" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-6" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-20" value="Run Static Analysis (Linters)" style="curved=1;endArrow=block;rounded=0;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="535" />
+              <mxPoint x="530" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-21" value="Analysis Results" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-3" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-22" value="Load &amp; Apply Custom Rules" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687" y="669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-23" value="Rule Violation Reports" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-4" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-24" value="Build Prompt for Code Review (code, linters_results, rules_results, context)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="787" y="819" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-25" value="Review Comments / Commit Message Suggestion" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-5" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-26" value="Consolidate Results" style="curved=1;endArrow=block;rounded=0;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="933" />
+              <mxPoint x="530" y="963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-27" value="Post Review Comment" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="887" y="1061" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPJbkJFegHPpwEUsuc38-28" value="Return Review Summary / Commit Message" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=13;" edge="1" parent="1" source="BPJbkJFegHPpwEUsuc38-2" target="BPJbkJFegHPpwEUsuc38-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="301" y="1123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
