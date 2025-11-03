@@ -13,7 +13,7 @@
         <mxCell id="8n6C5iow24UtNzFMsqKz-3" value="模型接口层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1480" y="218" width="670" height="745" as="geometry" />
         </mxCell>
-        <mxCell id="8n6C5iow24UtNzFMsqKz-4" value="Model Providers" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8n6C5iow24UtNzFMsqKz-4" value="模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1890" y="258" width="227" height="653" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-5" value="后端服务层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
