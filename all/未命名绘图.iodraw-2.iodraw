@@ -8,7 +8,7 @@
           <mxGeometry x="1264" y="493" width="218" height="181" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-2" value="Data Persistence Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1641" y="785" width="273" height="872" as="geometry" />
+          <mxGeometry x="1330" y="804" width="273" height="872" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-3" value="Model Inference Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1641" y="20" width="885" height="745" as="geometry" />
@@ -92,16 +92,16 @@
           <mxGeometry x="1965" y="322" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-30" value="PostgreSQL Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1673" y="1246" width="209" height="49" as="geometry" />
+          <mxGeometry x="1362" y="1265" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-31" value="Redis Cache / Message Broker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1667" y="896" width="222" height="67" as="geometry" />
+          <mxGeometry x="1356" y="915" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-32" value="Vector Database (ChromaDB)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1689" y="1012" width="178" height="67" as="geometry" />
+          <mxGeometry x="1378" y="1031" width="178" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-33" value="(Optional) File Storage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1666" y="1129" width="223" height="49" as="geometry" />
+          <mxGeometry x="1355" y="1148" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-34" value="Celery Workers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1289" y="568" width="168" height="49" as="geometry" />
