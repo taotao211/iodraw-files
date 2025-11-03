@@ -7,25 +7,25 @@
         <mxCell id="N0YVt8C2R-V5uzEMXXT3-1" value="后端 (FastAPI + Python)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=15;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="135" y="180" width="755" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-2" value="前端 (Vite + React)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=15;fontColor=#FF0080;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-2" value="前端 (Vite + React)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=15;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="135" y="400" width="754" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-3" value="npm run build" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-3" value="npm run build" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="435" width="160" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-4" value="静态文件(HTML/JS/CSS)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-4" value="静态文件(HTML/JS/CSS)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="395" y="435" width="232" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-5" value="部署到CDN/Nginx" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-5" value="部署到CDN/Nginx" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="677" y="435" width="187" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-6" value="python start.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-6" value="python start.py" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="215" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-7" value="RESTful API + SSE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-7" value="RESTful API + SSE" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="444" y="215" width="183" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="N0YVt8C2R-V5uzEMXXT3-8" value="部署到K8s" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="N0YVt8C2R-V5uzEMXXT3-8" value="部署到K8s" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="731" y="215" width="133" height="49" as="geometry" />
         </mxCell>
         <mxCell id="N0YVt8C2R-V5uzEMXXT3-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-3" target="N0YVt8C2R-V5uzEMXXT3-4">
