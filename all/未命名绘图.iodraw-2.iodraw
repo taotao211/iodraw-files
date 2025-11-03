@@ -17,7 +17,7 @@
           <mxGeometry x="2324" y="218" width="227" height="632" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-5" value="Backend Services Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="483" y="125" width="589" height="1215" as="geometry" />
+          <mxGeometry x="483" y="220" width="589" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-6" value="User Interface Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="611" width="284" height="416" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="943" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-11" value="API Gateway / Main App (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="508" y="730" width="234" height="67" as="geometry" />
+          <mxGeometry x="530" y="730" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-12" value="Auth Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="799" y="280" width="240" height="49" as="geometry" />
