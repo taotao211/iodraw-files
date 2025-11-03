@@ -23,7 +23,7 @@
           <mxGeometry x="90" y="611" width="284" height="416" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-7" value="IDE Plugin: VS Code" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="132" y="646" width="200" height="49" as="geometry" />
+          <mxGeometry x="109" y="674" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-8" value="IDE Plugin: JetBrains" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="110" y="766" width="240" height="49" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="943" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-11" value="API Gateway / Main App (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="508" y="1202" width="234" height="67" as="geometry" />
+          <mxGeometry x="508" y="730" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-12" value="Auth Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="844" y="200" width="151" height="49" as="geometry" />
