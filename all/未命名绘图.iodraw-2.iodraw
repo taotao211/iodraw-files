@@ -11,7 +11,7 @@
           <mxGeometry x="1110" y="598.5" width="273" height="671.5" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-3" value="Model Inference Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="218" width="885" height="745" as="geometry" />
+          <mxGeometry x="1480" y="218" width="830" height="745" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-4" value="Model Providers" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2050" y="259" width="227" height="653" as="geometry" />
