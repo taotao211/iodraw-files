@@ -98,7 +98,7 @@
           <mxGeometry x="1206" y="709.5" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-32" value="Vector Database (ChromaDB)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1228" y="825.5" width="178" height="67" as="geometry" />
+          <mxGeometry x="1210" y="825.5" width="210" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-33" value="(Optional) File Storage" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1205" y="942.5" width="223" height="49" as="geometry" />
