@@ -11,10 +11,10 @@
           <mxGeometry x="1110" y="598.5" width="273" height="671.5" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-3" value="Model Inference Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="125" width="885" height="745" as="geometry" />
+          <mxGeometry x="1480" y="218" width="885" height="745" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-4" value="Model Providers" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2324" y="218" width="227" height="632" as="geometry" />
+          <mxGeometry x="2114" y="311" width="227" height="632" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-5" value="Backend Services Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="572" height="1050" as="geometry" />
@@ -68,28 +68,28 @@
           <mxGeometry x="783" y="1098" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-22" value="Model Scheduler / Dispatcher" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1731" y="418" width="192" height="67" as="geometry" />
+          <mxGeometry x="1521" y="511" width="192" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-23" value="DeepSeek Coder (Online/Offline)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2349" y="253" width="177" height="67" as="geometry" />
+          <mxGeometry x="2139" y="346" width="177" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-24" value="Qwen2.5 Coder" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2352" y="370" width="170" height="49" as="geometry" />
+          <mxGeometry x="2142" y="463" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-25" value="Claude API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2369" y="469" width="136" height="49" as="geometry" />
+          <mxGeometry x="2159" y="562" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-26" value="GPT API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2379" y="568" width="116" height="49" as="geometry" />
+          <mxGeometry x="2169" y="661" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-27" value="Gemini API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2368" y="667" width="137" height="49" as="geometry" />
+          <mxGeometry x="2158" y="760" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-28" value="Custom Models" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2354" y="766" width="167" height="49" as="geometry" />
+          <mxGeometry x="2144" y="859" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="Hardware Abstraction Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2014" y="427" width="260" height="49" as="geometry" />
+          <mxGeometry x="1804" y="520" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-31" value="Redis Cache / Message Broker" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1135" y="739" width="222" height="67" as="geometry" />
@@ -275,42 +275,42 @@
         <mxCell id="8n6C5iow24UtNzFMsqKz-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-29" target="8n6C5iow24UtNzFMsqKz-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2299" y="287" />
+              <mxPoint x="2089" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-29" target="8n6C5iow24UtNzFMsqKz-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2299" y="394" />
+              <mxPoint x="2089" y="487" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-29" target="8n6C5iow24UtNzFMsqKz-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2299" y="493" />
+              <mxPoint x="2089" y="586" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-29" target="8n6C5iow24UtNzFMsqKz-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2299" y="592" />
+              <mxPoint x="2089" y="685" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-29" target="8n6C5iow24UtNzFMsqKz-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2299" y="691" />
+              <mxPoint x="2089" y="784" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-29" target="8n6C5iow24UtNzFMsqKz-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2299" y="790" />
+              <mxPoint x="2089" y="883" />
             </Array>
           </mxGeometry>
         </mxCell>
