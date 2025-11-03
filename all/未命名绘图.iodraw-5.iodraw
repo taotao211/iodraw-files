@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-1" value="负载均衡器 (Nginx/ALB)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="_RiUaiJM-b3c-X4MAN44-1" value="负载均衡器 (Nginx/ALB)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231" y="140" width="270" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_RiUaiJM-b3c-X4MAN44-2" value="前端服务 (3+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="_RiUaiJM-b3c-X4MAN44-2" value="前端服务 (3+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="266" y="240" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-3" value="后端服务 (5+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
