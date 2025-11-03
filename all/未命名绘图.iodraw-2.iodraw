@@ -17,7 +17,7 @@
           <mxGeometry x="2324" y="218" width="227" height="632" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-5" value="Backend Services Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="483" y="125" width="589" height="1551" as="geometry" />
+          <mxGeometry x="483" y="125" width="589" height="1215" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-6" value="User Interface Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="611" width="284" height="416" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry x="508" y="730" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-12" value="Auth Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="800" y="200" width="240" height="49" as="geometry" />
+          <mxGeometry x="799" y="280" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-13" value="Code Completion Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="239" height="49" as="geometry" />
+          <mxGeometry x="799" y="360" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-14" value="Code Explanation Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="797" y="360" width="241" height="49" as="geometry" />
+          <mxGeometry x="796" y="440" width="241" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-15" value="Test Generation Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="800" y="436" width="238" height="49" as="geometry" />
+          <mxGeometry x="799" y="516" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-16" value="Code Review Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="800" y="530" width="240" height="49" as="geometry" />
+          <mxGeometry x="799" y="610" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-17" value="AI Chat Service (RAG)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="790" y="739" width="250" height="49" as="geometry" />
