@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nYAxvQdL_2O3888ydKfS-1" value="数据服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1587" y="456" width="456" height="416" as="geometry" />
+          <mxGeometry x="1370" y="456" width="673" height="416" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-2" value="模型服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1370" y="20" width="673" height="416" as="geometry" />
@@ -17,16 +17,16 @@
           <mxGeometry x="272" y="272" width="529" height="278" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-5" value="IDE插件层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="253" width="203" height="317" as="geometry" />
+          <mxGeometry x="-30" y="253" width="203" height="317" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-6" value="VS Code" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-68" y="288" width="119" height="49" as="geometry" />
+          <mxGeometry x="12" y="288" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-7" value="JetBrains" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-72" y="387" width="127" height="49" as="geometry" />
+          <mxGeometry x="8" y="387" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-8" value="Visual Studio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="486" width="153" height="49" as="geometry" />
+          <mxGeometry x="-5" y="486" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-9" value="API Gateway (FastAPI)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="297" y="387" width="220" height="49" as="geometry" />
