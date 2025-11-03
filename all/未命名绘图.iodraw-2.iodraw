@@ -14,7 +14,7 @@
           <mxGeometry x="1480" y="218" width="830" height="745" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-4" value="Model Providers" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="259" width="227" height="653" as="geometry" />
+          <mxGeometry x="1890" y="258" width="227" height="653" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-5" value="Backend Services Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="572" height="1050" as="geometry" />
@@ -71,22 +71,22 @@
           <mxGeometry x="1500" y="511" width="213" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-23" value="DeepSeek Coder (Online/Offline)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2075" y="315" width="177" height="67" as="geometry" />
+          <mxGeometry x="1915" y="314" width="177" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-24" value="Qwen2.5 Coder" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2078" y="432" width="170" height="49" as="geometry" />
+          <mxGeometry x="1918" y="431" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-25" value="Claude API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="531" width="170" height="49" as="geometry" />
+          <mxGeometry x="1920" y="530" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-26" value="GPT API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="630" width="170" height="49" as="geometry" />
+          <mxGeometry x="1920" y="629" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-27" value="Gemini API" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="710" width="170" height="49" as="geometry" />
+          <mxGeometry x="1920" y="709" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-28" value="Custom Models" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="796" width="167" height="49" as="geometry" />
+          <mxGeometry x="1925" y="795" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="Hardware Abstraction Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1750" y="399.5" width="90" height="290" as="geometry" />
