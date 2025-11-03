@@ -19,7 +19,7 @@
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-5" value="Load Balancer" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="195" y="629" width="162" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VXDZH9I5m6pl4TJIzcm0-6" value="Nginx Ingress" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="VXDZH9I5m6pl4TJIzcm0-6" value="Nginx Ingress" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="205" y="753" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="VXDZH9I5m6pl4TJIzcm0-7" value="Frontend Pods" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
