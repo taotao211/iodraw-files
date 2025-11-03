@@ -68,7 +68,7 @@
           <mxGeometry x="783" y="1098" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-22" value="Model Scheduler / Dispatcher" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1521" y="511" width="192" height="67" as="geometry" />
+          <mxGeometry x="1500" y="511" width="213" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-23" value="DeepSeek Coder (Online/Offline)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2139" y="346" width="177" height="67" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="2144" y="859" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="Hardware Abstraction Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1804" y="520" width="260" height="49" as="geometry" />
+          <mxGeometry x="1780" y="520" width="284" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-31" value="Redis Cache / Message Broker" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1135" y="739" width="222" height="67" as="geometry" />
