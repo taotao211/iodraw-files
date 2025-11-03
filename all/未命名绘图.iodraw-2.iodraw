@@ -47,10 +47,10 @@
           <mxGeometry x="797" y="360" width="241" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-15" value="Test Generation Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="807" y="444" width="231" height="49" as="geometry" />
+          <mxGeometry x="800" y="436" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-16" value="Code Review Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="816" y="649" width="208" height="49" as="geometry" />
+          <mxGeometry x="800" y="530" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-17" value="AI Chat Service (RAG)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="812" y="1014" width="216" height="49" as="geometry" />
