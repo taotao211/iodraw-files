@@ -80,10 +80,10 @@
           <mxGeometry x="1750" y="590" width="268" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-26" value="Redis(缓存/队列)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="689" width="242" height="49" as="geometry" />
+          <mxGeometry x="1760" y="689" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-27" value="文件存储(S3)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1835" y="788" width="153" height="49" as="geometry" />
+          <mxGeometry x="1760" y="788" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=22;" edge="1" parent="1" source="nYAxvQdL_2O3888ydKfS-9" target="nYAxvQdL_2O3888ydKfS-10">
           <mxGeometry relative="1" as="geometry">
