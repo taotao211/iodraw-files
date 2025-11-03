@@ -38,7 +38,7 @@
           <mxGeometry x="508" y="730" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-12" value="Auth Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="844" y="200" width="151" height="49" as="geometry" />
+          <mxGeometry x="800" y="200" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-13" value="Code Completion Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="800" y="299" width="239" height="49" as="geometry" />
