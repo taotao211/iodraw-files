@@ -53,7 +53,7 @@
           <mxGeometry x="800" y="530" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-17" value="AI Chat Service (RAG)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="812" y="1014" width="216" height="49" as="geometry" />
+          <mxGeometry x="812" y="739" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-18" value="User Management Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="797" y="1295" width="244" height="49" as="geometry" />
