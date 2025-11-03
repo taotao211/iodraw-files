@@ -74,13 +74,13 @@
           <mxGeometry x="1480" y="620" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-24" value="PostgreSQL (主数据)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="491" width="203" height="49" as="geometry" />
+          <mxGeometry x="1750" y="491" width="263" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-25" value="ChromaDB (向量检索)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1804" y="590" width="214" height="49" as="geometry" />
+          <mxGeometry x="1750" y="590" width="268" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-26" value="Redis(缓存/队列)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="689" width="182" height="49" as="geometry" />
+          <mxGeometry x="1760" y="689" width="242" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-27" value="文件存储(S3)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1835" y="788" width="153" height="49" as="geometry" />
