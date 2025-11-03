@@ -56,16 +56,16 @@
           <mxGeometry x="790" y="739" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-18" value="User Management Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="797" y="1295" width="244" height="49" as="geometry" />
+          <mxGeometry x="785" y="860" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-19" value="Rule Configuration Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1394" width="250" height="49" as="geometry" />
+          <mxGeometry x="783" y="959" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-20" value="Model Management Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="792" y="1493" width="256" height="49" as="geometry" />
+          <mxGeometry x="780" y="1058" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-21" value="Monitoring Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1592" width="227" height="49" as="geometry" />
+          <mxGeometry x="778" y="1157" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-22" value="Model Scheduler / Dispatcher" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1731" y="418" width="192" height="67" as="geometry" />
