@@ -11,13 +11,13 @@
           <mxGeometry x="284" y="229" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-3" value="后端服务 (5+ Pods)" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="283" y="328" width="165" height="49" as="geometry" />
+          <mxGeometry x="260" y="328" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-4" value="PostgreSQL (主从复制)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="140" y="427" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-5" value="Redis (哨兵)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="409" y="427" width="146" height="49" as="geometry" />
+          <mxGeometry x="409" y="427" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_RiUaiJM-b3c-X4MAN44-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="_RiUaiJM-b3c-X4MAN44-1" target="_RiUaiJM-b3c-X4MAN44-2">
           <mxGeometry relative="1" as="geometry">
