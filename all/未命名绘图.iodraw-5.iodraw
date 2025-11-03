@@ -71,7 +71,7 @@
           <mxGeometry x="1857" y="352" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-23" value="数据服务层" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="640" width="142" height="49" as="geometry" />
+          <mxGeometry x="1480" y="620" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-24" value="PostgreSQL (主数据)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1810" y="491" width="203" height="49" as="geometry" />
