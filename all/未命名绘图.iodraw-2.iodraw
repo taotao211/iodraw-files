@@ -92,7 +92,7 @@
           <mxGeometry x="2014" y="427" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-30" value="PostgreSQL Database" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1212" y="1059.5" width="209" height="49" as="geometry" />
+          <mxGeometry x="1200" y="1059.5" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-31" value="Redis Cache / Message Broker" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1206" y="709.5" width="222" height="67" as="geometry" />
