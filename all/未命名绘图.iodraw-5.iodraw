@@ -26,7 +26,7 @@
           <mxGeometry x="444" y="215" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="N0YVt8C2R-V5uzEMXXT3-8" value="部署到K8s" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="905" y="231" width="133" height="49" as="geometry" />
+          <mxGeometry x="731" y="215" width="133" height="49" as="geometry" />
         </mxCell>
         <mxCell id="N0YVt8C2R-V5uzEMXXT3-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="N0YVt8C2R-V5uzEMXXT3-3" target="N0YVt8C2R-V5uzEMXXT3-4">
           <mxGeometry relative="1" as="geometry">
