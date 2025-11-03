@@ -91,14 +91,11 @@
         <mxCell id="8n6C5iow24UtNzFMsqKz-29" value="Hardware Abstraction Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2014" y="427" width="260" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8n6C5iow24UtNzFMsqKz-30" value="PostgreSQL Database" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1059.5" width="240" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-31" value="Redis Cache / Message Broker" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="709.5" width="222" height="67" as="geometry" />
+          <mxGeometry x="1205" y="739" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-32" value="Vector Database (ChromaDB)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="825.5" width="210" height="67" as="geometry" />
+          <mxGeometry x="1205" y="845" width="210" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-33" value="(Optional) File Storage" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1205" y="942.5" width="223" height="49" as="geometry" />
@@ -261,7 +258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8n6C5iow24UtNzFMsqKz-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.28;entryY=1;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-17" target="8n6C5iow24UtNzFMsqKz-33">
+        <mxCell id="8n6C5iow24UtNzFMsqKz-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.28;entryY=1;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-30" target="8n6C5iow24UtNzFMsqKz-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1072" y="1221" />
@@ -450,6 +447,16 @@
               <mxPoint x="1641" y="1117" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8n6C5iow24UtNzFMsqKz-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.28;entryY=1;rounded=0;fontSize=18;align=left;verticalAlign=top;" edge="1" parent="1" source="8n6C5iow24UtNzFMsqKz-17" target="8n6C5iow24UtNzFMsqKz-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="938" y="788" as="sourcePoint" />
+            <mxPoint x="1267" y="992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n6C5iow24UtNzFMsqKz-30" value="PostgreSQL Database" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="1031" width="240" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
