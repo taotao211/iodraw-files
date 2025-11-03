@@ -26,7 +26,7 @@
           <mxGeometry x="132" y="646" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-8" value="IDE Plugin: JetBrains" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="128" y="745" width="209" height="49" as="geometry" />
+          <mxGeometry x="110" y="766" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8n6C5iow24UtNzFMsqKz-9" value="IDE Plugin: Visual Studio" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="110" y="850" width="239" height="49" as="geometry" />
