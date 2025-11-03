@@ -23,7 +23,7 @@
           <mxGeometry x="12" y="288" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-7" value="JetBrains" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="8" y="387" width="127" height="49" as="geometry" />
+          <mxGeometry x="8" y="390" width="127" height="46" as="geometry" />
         </mxCell>
         <mxCell id="nYAxvQdL_2O3888ydKfS-8" value="Visual Studio" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-5" y="486" width="153" height="49" as="geometry" />
