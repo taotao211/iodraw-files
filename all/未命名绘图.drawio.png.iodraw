@@ -31,10 +31,8 @@
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-9" value="生成安全风险画像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1269" y="510" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="MeHg5ZpCaAMtgIvq24mr-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-2" target="MeHg5ZpCaAMtgIvq24mr-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="MeHg5ZpCaAMtgIvq24mr-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-2" target="MeHg5ZpCaAMtgIvq24mr-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.22;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-3" target="MeHg5ZpCaAMtgIvq24mr-4">
           <mxGeometry relative="1" as="geometry">
@@ -85,10 +83,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MeHg5ZpCaAMtgIvq24mr-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-8" target="MeHg5ZpCaAMtgIvq24mr-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="MeHg5ZpCaAMtgIvq24mr-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.51;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-8" target="MeHg5ZpCaAMtgIvq24mr-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
