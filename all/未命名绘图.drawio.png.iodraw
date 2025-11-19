@@ -1,35 +1,35 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="a6i7jRfcIDFdQVxs61Bt">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-1" value="遗传进化循环 (Evolution Loop)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="243" y="20" width="1244" height="366" as="geometry" />
+          <mxGeometry x="223" y="40" width="1244" height="366" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-2" value="人类攻击模板库&#xa;(Seed Prompts)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="198" width="173" height="67" as="geometry" />
+          <mxGeometry y="218" width="173" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-3" value="自动化攻击引擎" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="268" y="150" width="162" height="162" as="geometry" />
+          <mxGeometry x="248" y="170" width="162" height="162" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-4" value="变异 Mutation&#xa;(同义词/编码/逻辑重组)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="139" width="233" height="67" as="geometry" />
+          <mxGeometry x="460" y="159" width="233" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-5" value="攻击 Attack&#xa;(发送给被测 Agent)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="763" y="92" width="198" height="67" as="geometry" />
+          <mxGeometry x="743" y="112" width="198" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-6" value="判别结果?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1011" y="66" width="119" height="119" as="geometry" />
+          <mxGeometry x="991" y="86" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-7" value="分析拒绝原因&#xa;调整变异策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="139" width="158" height="67" as="geometry" />
+          <mxGeometry x="1277" y="159" width="158" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-8" value="保留特征&#xa;存入高危样本库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="261" width="173" height="67" as="geometry" />
+          <mxGeometry x="1269" y="281" width="173" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-9" value="生成安全风险画像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1537" y="269" width="189" height="49" as="geometry" />
+          <mxGeometry x="1517" y="289" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-2" target="MeHg5ZpCaAMtgIvq24mr-3">
           <mxGeometry relative="1" as="geometry">
@@ -39,14 +39,14 @@
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.22;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-3" target="MeHg5ZpCaAMtgIvq24mr-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="455" y="173" />
+              <mxPoint x="435" y="193" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-4" target="MeHg5ZpCaAMtgIvq24mr-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="738" y="125" />
+              <mxPoint x="718" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,30 +58,30 @@
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-14" value="拒绝/防御成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-6" target="MeHg5ZpCaAMtgIvq24mr-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1209" y="125" />
+              <mxPoint x="1189" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.93;entryY=1;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-7" target="MeHg5ZpCaAMtgIvq24mr-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1209" y="220" />
-              <mxPoint x="738" y="220" />
+              <mxPoint x="1189" y="240" />
+              <mxPoint x="718" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-16" value="越狱/注入成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-6" target="MeHg5ZpCaAMtgIvq24mr-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1209" y="251" />
+              <mxPoint x="1189" y="271" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MeHg5ZpCaAMtgIvq24mr-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.91;rounded=0;" edge="1" parent="1" source="MeHg5ZpCaAMtgIvq24mr-8" target="MeHg5ZpCaAMtgIvq24mr-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1209" y="318" />
-              <mxPoint x="455" y="318" />
+              <mxPoint x="1189" y="338" />
+              <mxPoint x="435" y="338" />
             </Array>
           </mxGeometry>
         </mxCell>
