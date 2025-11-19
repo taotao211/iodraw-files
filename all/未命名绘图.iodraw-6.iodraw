@@ -85,7 +85,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VBoZnQKX6Ff9QNvT7JsD-53" value="顶层愿景: 可信赖的通用智能体 (Trustworthy AGI)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="VBoZnQKX6Ff9QNvT7JsD-53" value="顶层愿景: 可信赖的通用智能体 (Trustworthy AGI)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="932" y="306" width="308" height="137" as="geometry" />
         </mxCell>
         <mxCell id="VBoZnQKX6Ff9QNvT7JsD-54" value="能力强 (Capable) + 安全 (Safe) + 对齐 (Aligned)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VBoZnQKX6Ff9QNvT7JsD-53">
